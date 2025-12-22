@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: simulador-gps-backend
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - USER=${USER}
+      - PASSWORD=${PASSWORD}
+      - SERVER=${SERVER}
+      - DATABASE=${DATABASE}
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    networks:
+      - simulador-network
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: simulador-gps-frontend
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+    networks:
+      - simulador-network
+    restart: unless-stopped
+
+networks:
+  simulador-network:
+    driver: bridge

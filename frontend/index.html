@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador GPS</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <header class="header-simulador">
+        <h1>Simulador GPS</h1>
+    </header>
+    <div class="container-simulador">
+        <main class="main-simulador">
+            <section id="controls">
+                <h2>Controles da Simulação</h2>
+                <div>
+                    <label for="mapSelect">Selecionar Mapa:</label>
+                    <select id="mapSelect"></select>
+                </div>
+                <div>
+                    <label for="equipSelect">Selecionar Equipamento:</label>
+                    <select id="equipSelect"></select>
+                </div>
+                <div>
+                    <label for="timerInput">Intervalo de Atualização (ms):</label>
+                    <input type="number" id="timerInput" value="1000" min="100">
+                    <button id="setTimerBtn">Definir Intervalo</button>
+                </div>
+                <div>
+                    <button id="startSimBtn">Iniciar Simulação</button>
+                    <button id="stopSimBtn">Parar Simulação</button>
+                </div>
+            </section>
+        </main>
+        <section id="latLongSection">
+            <h2>Equipamentos</h2>
+            <div class="div-resultados">
+                <table id="equipTable">
+                    <thead>
+                        <tr>
+                            <th>Equipamento</th>
+                            <th>Latitude</th>
+                            <th>Longitude</th>
+                        </tr>
+                    </thead>
+                    <tbody id="corpo-resposta">
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
