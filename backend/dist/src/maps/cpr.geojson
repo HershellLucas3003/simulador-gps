@@ -1,0 +1,3865 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-11-26T19:38:59Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/515947096",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6938291,
+            20.0502552
+          ],
+          [
+            -96.6913616,
+            20.0490358
+          ],
+          [
+            -96.689979,
+            20.0483316
+          ],
+          [
+            -96.6886574,
+            20.0475796
+          ],
+          [
+            -96.6869605,
+            20.0464018
+          ],
+          [
+            -96.6855267,
+            20.045185
+          ],
+          [
+            -96.6841234,
+            20.0438837
+          ],
+          [
+            -96.6817532,
+            20.0415375
+          ]
+        ]
+      },
+      "id": "way/515947096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/562753527",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.2271907,
+            20.429099
+          ],
+          [
+            -97.2280298,
+            20.4307678
+          ],
+          [
+            -97.2289562,
+            20.4321816
+          ],
+          [
+            -97.2295308,
+            20.4329692
+          ],
+          [
+            -97.2301913,
+            20.433764
+          ],
+          [
+            -97.2316923,
+            20.4353464
+          ],
+          [
+            -97.2326226,
+            20.4365002
+          ],
+          [
+            -97.2381855,
+            20.4445578
+          ],
+          [
+            -97.239441,
+            20.4465714
+          ],
+          [
+            -97.2408034,
+            20.4490709
+          ],
+          [
+            -97.241621,
+            20.4506685
+          ],
+          [
+            -97.2421361,
+            20.4516034
+          ],
+          [
+            -97.2435495,
+            20.4543427
+          ],
+          [
+            -97.2441396,
+            20.4557148
+          ],
+          [
+            -97.2447051,
+            20.4571938
+          ],
+          [
+            -97.2448611,
+            20.4574991
+          ],
+          [
+            -97.2450784,
+            20.4578434
+          ],
+          [
+            -97.2454941,
+            20.4584368
+          ],
+          [
+            -97.2461512,
+            20.4592909
+          ],
+          [
+            -97.2462768,
+            20.459463
+          ],
+          [
+            -97.2464704,
+            20.4597282
+          ],
+          [
+            -97.2469237,
+            20.4603577
+          ]
+        ]
+      },
+      "id": "way/562753527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/562753528",
+        "bridge": "yes",
+        "bridge:name": "Afluente Tecolutla",
+        "bridge:structure": "beam",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.2264344,
+            20.4276449
+          ],
+          [
+            -97.2268045,
+            20.4282905
+          ],
+          [
+            -97.2271907,
+            20.429099
+          ]
+        ]
+      },
+      "id": "way/562753528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/562753529",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.2471249,
+            20.4606881
+          ],
+          [
+            -97.247306,
+            20.4609834
+          ],
+          [
+            -97.2476506,
+            20.4615048
+          ],
+          [
+            -97.2480449,
+            20.4620074
+          ],
+          [
+            -97.2489059,
+            20.4630051
+          ],
+          [
+            -97.2499325,
+            20.4642546
+          ]
+        ]
+      },
+      "id": "way/562753529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/562753530",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.2469237,
+            20.4603577
+          ],
+          [
+            -97.2471249,
+            20.4606881
+          ]
+        ]
+      },
+      "id": "way/562753530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591513212",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.9484629,
+            20.1501658
+          ],
+          [
+            -96.9492522,
+            20.1515369
+          ],
+          [
+            -96.9560033,
+            20.1638016
+          ],
+          [
+            -96.9627813,
+            20.1761159
+          ]
+        ]
+      },
+      "id": "way/591513212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/596123832",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.0451036,
+            20.2742796
+          ],
+          [
+            -97.047011,
+            20.2761271
+          ],
+          [
+            -97.0486307,
+            20.2774598
+          ],
+          [
+            -97.0496607,
+            20.2782045
+          ],
+          [
+            -97.0506048,
+            20.2787782
+          ],
+          [
+            -97.0515735,
+            20.2793533
+          ],
+          [
+            -97.0527609,
+            20.2799285
+          ],
+          [
+            -97.0534802,
+            20.2802325
+          ],
+          [
+            -97.0553685,
+            20.2810174
+          ],
+          [
+            -97.0625304,
+            20.2840841
+          ],
+          [
+            -97.06345,
+            20.284499
+          ],
+          [
+            -97.0646216,
+            20.2851095
+          ],
+          [
+            -97.06599,
+            20.2859686
+          ],
+          [
+            -97.0673224,
+            20.2869967
+          ],
+          [
+            -97.0782817,
+            20.296275
+          ],
+          [
+            -97.0793581,
+            20.2971184
+          ],
+          [
+            -97.0810171,
+            20.2981981
+          ],
+          [
+            -97.082568,
+            20.2990208
+          ],
+          [
+            -97.0836818,
+            20.299541
+          ],
+          [
+            -97.0840868,
+            20.2997171
+          ],
+          [
+            -97.0853394,
+            20.3002303
+          ],
+          [
+            -97.0867444,
+            20.3008757
+          ],
+          [
+            -97.0878435,
+            20.3013651
+          ],
+          [
+            -97.0913073,
+            20.3028616
+          ],
+          [
+            -97.094129,
+            20.3041269
+          ],
+          [
+            -97.1000916,
+            20.3066827
+          ],
+          [
+            -97.1011725,
+            20.3071908
+          ]
+        ]
+      },
+      "id": "way/596123832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/596123833",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.0170155,
+            20.2477068
+          ],
+          [
+            -97.0172485,
+            20.2479546
+          ]
+        ]
+      },
+      "id": "way/596123833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/596123854",
+        "bridge": "yes",
+        "bridge:name": "Estero del Negro 1",
+        "bridge:structure": "beam",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1225406,
+            20.3385528
+          ],
+          [
+            -97.1230459,
+            20.3391343
+          ]
+        ]
+      },
+      "id": "way/596123854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/596123859",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1246904,
+            20.3409325
+          ],
+          [
+            -97.1264993,
+            20.3429394
+          ],
+          [
+            -97.1275102,
+            20.3440104
+          ],
+          [
+            -97.128531,
+            20.3451161
+          ],
+          [
+            -97.1290326,
+            20.3456732
+          ],
+          [
+            -97.1298359,
+            20.3466263
+          ],
+          [
+            -97.1313447,
+            20.3485652
+          ],
+          [
+            -97.1321681,
+            20.3497774
+          ],
+          [
+            -97.1328066,
+            20.3507639
+          ],
+          [
+            -97.1331737,
+            20.3513754
+          ],
+          [
+            -97.1334596,
+            20.3518558
+          ],
+          [
+            -97.1337828,
+            20.3524078
+          ],
+          [
+            -97.1352661,
+            20.3547792
+          ],
+          [
+            -97.1364114,
+            20.3564616
+          ],
+          [
+            -97.1371463,
+            20.3574096
+          ],
+          [
+            -97.1378866,
+            20.3582218
+          ],
+          [
+            -97.1386859,
+            20.3590391
+          ],
+          [
+            -97.1402282,
+            20.3603869
+          ],
+          [
+            -97.1412581,
+            20.3612067
+          ],
+          [
+            -97.1420896,
+            20.3618731
+          ],
+          [
+            -97.1427065,
+            20.3623597
+          ],
+          [
+            -97.1434119,
+            20.362933
+          ],
+          [
+            -97.1442126,
+            20.3636283
+          ],
+          [
+            -97.1443883,
+            20.3637968
+          ],
+          [
+            -97.1452734,
+            20.3647762
+          ],
+          [
+            -97.1455979,
+            20.365137
+          ],
+          [
+            -97.1459976,
+            20.3656148
+          ],
+          [
+            -97.1462953,
+            20.365997
+          ],
+          [
+            -97.146931,
+            20.3668695
+          ],
+          [
+            -97.1481729,
+            20.368856
+          ],
+          [
+            -97.1487026,
+            20.3697486
+          ],
+          [
+            -97.1489695,
+            20.3701736
+          ],
+          [
+            -97.1502405,
+            20.3721486
+          ],
+          [
+            -97.1535265,
+            20.3767287
+          ],
+          [
+            -97.1614553,
+            20.387867
+          ],
+          [
+            -97.1637753,
+            20.3911403
+          ],
+          [
+            -97.1645397,
+            20.3922051
+          ],
+          [
+            -97.1650359,
+            20.3927946
+          ],
+          [
+            -97.1655589,
+            20.3933528
+          ],
+          [
+            -97.1665111,
+            20.3942654
+          ],
+          [
+            -97.1679327,
+            20.3953288
+          ],
+          [
+            -97.1697271,
+            20.3964451
+          ],
+          [
+            -97.1716449,
+            20.3975236
+          ],
+          [
+            -97.1722403,
+            20.3978341
+          ],
+          [
+            -97.177763,
+            20.4009225
+          ],
+          [
+            -97.1785462,
+            20.4013951
+          ],
+          [
+            -97.1797022,
+            20.4020135
+          ],
+          [
+            -97.1811904,
+            20.4028399
+          ]
+        ]
+      },
+      "id": "way/596123859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641299272",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8275081,
+            20.1195977
+          ],
+          [
+            -96.8362383,
+            20.1202599
+          ],
+          [
+            -96.8388686,
+            20.1204962
+          ],
+          [
+            -96.8399063,
+            20.120697
+          ],
+          [
+            -96.8408195,
+            20.1210028
+          ],
+          [
+            -96.8417949,
+            20.1214538
+          ],
+          [
+            -96.84257,
+            20.1219222
+          ],
+          [
+            -96.843217,
+            20.1223964
+          ],
+          [
+            -96.8455463,
+            20.1244117
+          ],
+          [
+            -96.8520907,
+            20.1300858
+          ],
+          [
+            -96.8529675,
+            20.1308204
+          ],
+          [
+            -96.8541302,
+            20.1315662
+          ],
+          [
+            -96.8548206,
+            20.1318929
+          ],
+          [
+            -96.8556024,
+            20.1321845
+          ],
+          [
+            -96.8564237,
+            20.1324146
+          ],
+          [
+            -96.857296,
+            20.1325724
+          ],
+          [
+            -96.8582162,
+            20.1326413
+          ],
+          [
+            -96.8621153,
+            20.1327602
+          ],
+          [
+            -96.8649034,
+            20.132842
+          ],
+          [
+            -96.8681643,
+            20.1329397
+          ],
+          [
+            -96.8703145,
+            20.1330042
+          ],
+          [
+            -96.8724685,
+            20.1329931
+          ],
+          [
+            -96.8746801,
+            20.1329276
+          ],
+          [
+            -96.8768485,
+            20.1328435
+          ]
+        ]
+      },
+      "id": "way/641299272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641299273",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7547353,
+            20.0911843
+          ],
+          [
+            -96.7567933,
+            20.0921683
+          ]
+        ]
+      },
+      "id": "way/641299273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673174197",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.9096741,
+            20.1340104
+          ],
+          [
+            -96.9127125,
+            20.1342346
+          ],
+          [
+            -96.9155717,
+            20.1344562
+          ],
+          [
+            -96.9200028,
+            20.1347918
+          ],
+          [
+            -96.9212561,
+            20.1349896
+          ],
+          [
+            -96.9224634,
+            20.1352968
+          ],
+          [
+            -96.9242916,
+            20.1360061
+          ],
+          [
+            -96.9268083,
+            20.1371845
+          ]
+        ]
+      },
+      "id": "way/673174197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673174198",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.9084001,
+            20.1339222
+          ],
+          [
+            -96.9096741,
+            20.1340104
+          ]
+        ]
+      },
+      "id": "way/673174198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673174199",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.9301396,
+            20.1387664
+          ],
+          [
+            -96.9360691,
+            20.1415526
+          ],
+          [
+            -96.9437393,
+            20.145171
+          ],
+          [
+            -96.9440616,
+            20.145351
+          ],
+          [
+            -96.9443158,
+            20.1454935
+          ],
+          [
+            -96.9449703,
+            20.1459451
+          ],
+          [
+            -96.9454405,
+            20.1463787
+          ],
+          [
+            -96.9461523,
+            20.147021
+          ],
+          [
+            -96.9464499,
+            20.1472896
+          ]
+        ]
+      },
+      "id": "way/673174199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673174200",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.9268083,
+            20.1371845
+          ],
+          [
+            -96.9301396,
+            20.1387664
+          ]
+        ]
+      },
+      "id": "way/673174200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673177494",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "-1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.9464499,
+            20.1472896
+          ],
+          [
+            -96.9466986,
+            20.1475798
+          ]
+        ]
+      },
+      "id": "way/673177494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673177495",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.96324,
+            20.1769743
+          ],
+          [
+            -96.9639587,
+            20.1782331
+          ],
+          [
+            -96.964581,
+            20.1794869
+          ],
+          [
+            -96.9651979,
+            20.1808111
+          ],
+          [
+            -96.966244,
+            20.1834394
+          ],
+          [
+            -96.966818,
+            20.1847938
+          ],
+          [
+            -96.9672847,
+            20.1858209
+          ],
+          [
+            -96.967687,
+            20.1865963
+          ],
+          [
+            -96.9683039,
+            20.1876385
+          ],
+          [
+            -96.9690335,
+            20.1888217
+          ],
+          [
+            -96.9715038,
+            20.1926507
+          ],
+          [
+            -96.9729844,
+            20.1949767
+          ],
+          [
+            -96.9791294,
+            20.2044944
+          ],
+          [
+            -96.9808432,
+            20.2071399
+          ],
+          [
+            -96.9815125,
+            20.2081706
+          ],
+          [
+            -96.9820637,
+            20.2089748
+          ],
+          [
+            -96.9827154,
+            20.2098181
+          ],
+          [
+            -96.983217,
+            20.2104297
+          ],
+          [
+            -96.9839412,
+            20.2112729
+          ],
+          [
+            -96.9845554,
+            20.2119022
+          ],
+          [
+            -96.9854057,
+            20.2127378
+          ],
+          [
+            -96.9859448,
+            20.2132563
+          ],
+          [
+            -96.9875112,
+            20.2146256
+          ],
+          [
+            -96.9891259,
+            20.2159948
+          ],
+          [
+            -96.9912797,
+            20.2178473
+          ],
+          [
+            -96.9915721,
+            20.2181317
+          ],
+          [
+            -96.9920602,
+            20.2185898
+          ],
+          [
+            -96.9924974,
+            20.2190202
+          ],
+          [
+            -96.9932364,
+            20.2198898
+          ],
+          [
+            -96.9941095,
+            20.2209406
+          ],
+          [
+            -96.9955122,
+            20.222832
+          ],
+          [
+            -96.9964309,
+            20.2241207
+          ],
+          [
+            -96.9971296,
+            20.2250796
+          ],
+          [
+            -96.9980416,
+            20.2263198
+          ],
+          [
+            -97.0006312,
+            20.2298602
+          ],
+          [
+            -97.0012307,
+            20.230658
+          ],
+          [
+            -97.0020568,
+            20.2318006
+          ],
+          [
+            -97.0028937,
+            20.2329583
+          ],
+          [
+            -97.0037279,
+            20.234043
+          ],
+          [
+            -97.0042375,
+            20.2346697
+          ],
+          [
+            -97.0047686,
+            20.2353114
+          ],
+          [
+            -97.0053855,
+            20.2360136
+          ],
+          [
+            -97.0066153,
+            20.2373398
+          ],
+          [
+            -97.0080328,
+            20.2387592
+          ],
+          [
+            -97.009616,
+            20.2403472
+          ],
+          [
+            -97.0145264,
+            20.2452519
+          ],
+          [
+            -97.0170155,
+            20.2477068
+          ]
+        ]
+      },
+      "id": "way/673177495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/673177496",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.9627813,
+            20.1761159
+          ],
+          [
+            -96.96324,
+            20.1769743
+          ]
+        ]
+      },
+      "id": "way/673177496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778027679",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1011725,
+            20.3071908
+          ],
+          [
+            -97.1021462,
+            20.3077367
+          ]
+        ]
+      },
+      "id": "way/778027679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778027680",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1021462,
+            20.3077367
+          ],
+          [
+            -97.1032995,
+            20.3084536
+          ],
+          [
+            -97.1035489,
+            20.3086297
+          ],
+          [
+            -97.1038628,
+            20.3088787
+          ],
+          [
+            -97.1041927,
+            20.309173
+          ],
+          [
+            -97.1048156,
+            20.309817
+          ],
+          [
+            -97.1051387,
+            20.3101858
+          ],
+          [
+            -97.1055663,
+            20.3107336
+          ],
+          [
+            -97.1057885,
+            20.311035
+          ],
+          [
+            -97.1060823,
+            20.3114502
+          ],
+          [
+            -97.1064056,
+            20.3119283
+          ],
+          [
+            -97.1137519,
+            20.3233565
+          ],
+          [
+            -97.1192426,
+            20.3332156
+          ],
+          [
+            -97.1204722,
+            20.3354605
+          ],
+          [
+            -97.1216947,
+            20.3374132
+          ],
+          [
+            -97.1225406,
+            20.3385528
+          ]
+        ]
+      },
+      "id": "way/778027680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/820952468",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8834614,
+            20.1325966
+          ],
+          [
+            -96.8883151,
+            20.1325171
+          ],
+          [
+            -96.8900236,
+            20.132575
+          ],
+          [
+            -96.8926531,
+            20.1327464
+          ],
+          [
+            -96.8957046,
+            20.1329755
+          ],
+          [
+            -96.9028081,
+            20.1334976
+          ],
+          [
+            -96.9059988,
+            20.1337411
+          ],
+          [
+            -96.9084001,
+            20.1339222
+          ]
+        ]
+      },
+      "id": "way/820952468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/820952469",
+        "bridge": "yes",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8821793,
+            20.132654
+          ],
+          [
+            -96.8834614,
+            20.1325966
+          ]
+        ]
+      },
+      "id": "way/820952469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/826486689",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.9466986,
+            20.1475798
+          ],
+          [
+            -96.9468679,
+            20.147785
+          ],
+          [
+            -96.9474022,
+            20.14842
+          ],
+          [
+            -96.9478487,
+            20.1490712
+          ],
+          [
+            -96.9484629,
+            20.1501658
+          ]
+        ]
+      },
+      "id": "way/826486689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/831106266",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1814264,
+            20.4029769
+          ],
+          [
+            -97.1841005,
+            20.4044571
+          ],
+          [
+            -97.185485,
+            20.4051485
+          ],
+          [
+            -97.1874218,
+            20.4060135
+          ],
+          [
+            -97.1914262,
+            20.4075267
+          ],
+          [
+            -97.1940199,
+            20.4084844
+          ],
+          [
+            -97.1957946,
+            20.4091528
+          ],
+          [
+            -97.1965986,
+            20.4095091
+          ],
+          [
+            -97.1972864,
+            20.4098173
+          ],
+          [
+            -97.1981549,
+            20.4102374
+          ],
+          [
+            -97.2000775,
+            20.4112097
+          ],
+          [
+            -97.2033906,
+            20.4129083
+          ],
+          [
+            -97.2062717,
+            20.4145087
+          ],
+          [
+            -97.2197353,
+            20.4227595
+          ],
+          [
+            -97.220943,
+            20.4234594
+          ],
+          [
+            -97.2230534,
+            20.4245397
+          ],
+          [
+            -97.2242375,
+            20.425279
+          ]
+        ]
+      },
+      "id": "way/831106266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/831106267",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1811904,
+            20.4028399
+          ],
+          [
+            -97.1814264,
+            20.4029769
+          ]
+        ]
+      },
+      "id": "way/831106267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/838191565",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.0445189,
+            20.2737286
+          ],
+          [
+            -97.0451036,
+            20.2742796
+          ]
+        ]
+      },
+      "id": "way/838191565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/838191566",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.0172485,
+            20.2479546
+          ],
+          [
+            -97.0192947,
+            20.2499414
+          ],
+          [
+            -97.0200947,
+            20.2507076
+          ],
+          [
+            -97.0223719,
+            20.2528365
+          ],
+          [
+            -97.0256643,
+            20.255953
+          ],
+          [
+            -97.0274439,
+            20.2576477
+          ],
+          [
+            -97.0286442,
+            20.2587977
+          ],
+          [
+            -97.0348506,
+            20.2646612
+          ],
+          [
+            -97.0358422,
+            20.2655881
+          ],
+          [
+            -97.0434381,
+            20.2727851
+          ],
+          [
+            -97.0445189,
+            20.2737286
+          ]
+        ]
+      },
+      "id": "way/838191566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322004",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6534196,
+            20.0145762
+          ],
+          [
+            -96.6522594,
+            20.0141052
+          ],
+          [
+            -96.640667,
+            20.0094372
+          ],
+          [
+            -96.638279,
+            20.008439
+          ],
+          [
+            -96.6358406,
+            20.0073579
+          ],
+          [
+            -96.6344427,
+            20.0066405
+          ],
+          [
+            -96.6331106,
+            20.0058921
+          ],
+          [
+            -96.6299522,
+            20.004
+          ],
+          [
+            -96.6276527,
+            20.0025253
+          ]
+        ]
+      },
+      "id": "way/1018322004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322005",
+        "bridge": "yes",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6552305,
+            20.0153331
+          ],
+          [
+            -96.6534196,
+            20.0145762
+          ]
+        ]
+      },
+      "id": "way/1018322005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322006",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6161219,
+            19.9951645
+          ],
+          [
+            -96.5951121,
+            19.9817784
+          ]
+        ]
+      },
+      "id": "way/1018322006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322007",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6276527,
+            20.0025253
+          ],
+          [
+            -96.6271806,
+            20.0021649
+          ]
+        ]
+      },
+      "id": "way/1018322007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322008",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5855396,
+            19.9704552
+          ],
+          [
+            -96.584446,
+            19.9682336
+          ],
+          [
+            -96.5836522,
+            19.9668767
+          ],
+          [
+            -96.5828395,
+            19.9655846
+          ],
+          [
+            -96.5815222,
+            19.9637637
+          ],
+          [
+            -96.5803981,
+            19.9622485
+          ],
+          [
+            -96.5747369,
+            19.9545343
+          ],
+          [
+            -96.5652161,
+            19.9415014
+          ]
+        ]
+      },
+      "id": "way/1018322008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322009",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5951121,
+            19.9817784
+          ],
+          [
+            -96.5938676,
+            19.9809869
+          ]
+        ]
+      },
+      "id": "way/1018322009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322010",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "90",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5645028,
+            19.9405478
+          ],
+          [
+            -96.5597395,
+            19.9341799
+          ],
+          [
+            -96.5512223,
+            19.9232974
+          ],
+          [
+            -96.5504303,
+            19.92244
+          ],
+          [
+            -96.5492113,
+            19.9214405
+          ],
+          [
+            -96.5481067,
+            19.9207451
+          ],
+          [
+            -96.5467485,
+            19.9201161
+          ],
+          [
+            -96.5444908,
+            19.9192537
+          ],
+          [
+            -96.5425807,
+            19.9184767
+          ],
+          [
+            -96.5406606,
+            19.91742
+          ],
+          [
+            -96.5388312,
+            19.9161739
+          ],
+          [
+            -96.5374137,
+            19.9149991
+          ],
+          [
+            -96.5360946,
+            19.9136957
+          ],
+          [
+            -96.5348929,
+            19.9122768
+          ],
+          [
+            -96.5276077,
+            19.9032141
+          ]
+        ]
+      },
+      "id": "way/1018322010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322011",
+        "bridge": "yes",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5652161,
+            19.9415014
+          ],
+          [
+            -96.5645028,
+            19.9405478
+          ]
+        ]
+      },
+      "id": "way/1018322011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322012",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "maxspeed": "90",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5161982,
+            19.8889743
+          ],
+          [
+            -96.5128861,
+            19.8848723
+          ],
+          [
+            -96.5112369,
+            19.882991
+          ],
+          [
+            -96.5103245,
+            19.8820503
+          ],
+          [
+            -96.5093324,
+            19.8812039
+          ],
+          [
+            -96.5072907,
+            19.8794258
+          ],
+          [
+            -96.5052686,
+            19.8777254
+          ],
+          [
+            -96.5005052,
+            19.8741628
+          ],
+          [
+            -96.4962432,
+            19.8709906
+          ],
+          [
+            -96.4919971,
+            19.8678246
+          ],
+          [
+            -96.4877673,
+            19.8646959
+          ],
+          [
+            -96.4870343,
+            19.8641115
+          ],
+          [
+            -96.4863217,
+            19.863486
+          ],
+          [
+            -96.4851898,
+            19.8623659
+          ],
+          [
+            -96.4847392,
+            19.8618715
+          ],
+          [
+            -96.4842725,
+            19.8613292
+          ],
+          [
+            -96.4792246,
+            19.8541873
+          ],
+          [
+            -96.4743054,
+            19.8471688
+          ],
+          [
+            -96.4695042,
+            19.8403165
+          ],
+          [
+            -96.4670795,
+            19.836865
+          ],
+          [
+            -96.4663285,
+            19.8358154
+          ],
+          [
+            -96.4656365,
+            19.8348112
+          ],
+          [
+            -96.4648243,
+            19.8335119
+          ],
+          [
+            -96.4635658,
+            19.8308902
+          ],
+          [
+            -96.4623953,
+            19.8273374
+          ],
+          [
+            -96.4591042,
+            19.8173987
+          ],
+          [
+            -96.4585876,
+            19.8153973
+          ],
+          [
+            -96.4583382,
+            19.8146196
+          ],
+          [
+            -96.4575759,
+            19.8128291
+          ],
+          [
+            -96.4570695,
+            19.8115466
+          ],
+          [
+            -96.4565599,
+            19.8103657
+          ],
+          [
+            -96.4549935,
+            19.8061564
+          ],
+          [
+            -96.4546287,
+            19.8052126
+          ],
+          [
+            -96.4541567,
+            19.8040568
+          ],
+          [
+            -96.4530838,
+            19.8020884
+          ],
+          [
+            -96.4513135,
+            19.7978386
+          ],
+          [
+            -96.4505249,
+            19.7959156
+          ],
+          [
+            -96.4503425,
+            19.7953957
+          ],
+          [
+            -96.4501709,
+            19.794785
+          ],
+          [
+            -96.4498544,
+            19.7935988
+          ],
+          [
+            -96.449209,
+            19.7904124
+          ]
+        ]
+      },
+      "id": "way/1018322012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322013",
+        "bridge": "yes",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5169742,
+            19.8899485
+          ],
+          [
+            -96.5161982,
+            19.8889743
+          ]
+        ]
+      },
+      "id": "way/1018322013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322014",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.4336002,
+            19.7635256
+          ],
+          [
+            -96.4327795,
+            19.762781
+          ],
+          [
+            -96.4287883,
+            19.7583332
+          ],
+          [
+            -96.4266264,
+            19.7560058
+          ],
+          [
+            -96.4247382,
+            19.7539712
+          ],
+          [
+            -96.4243412,
+            19.7535521
+          ],
+          [
+            -96.4239281,
+            19.7529715
+          ],
+          [
+            -96.4233972,
+            19.7519821
+          ],
+          [
+            -96.4227802,
+            19.7508611
+          ],
+          [
+            -96.4225602,
+            19.7504168
+          ],
+          [
+            -96.4224261,
+            19.750028
+          ],
+          [
+            -96.4222277,
+            19.7492758
+          ],
+          [
+            -96.421836,
+            19.7471401
+          ],
+          [
+            -96.4214846,
+            19.7456607
+          ],
+          [
+            -96.4214538,
+            19.7455408
+          ],
+          [
+            -96.4213969,
+            19.7453668
+          ],
+          [
+            -96.4207012,
+            19.7432187
+          ],
+          [
+            -96.4206306,
+            19.7429674
+          ]
+        ]
+      },
+      "id": "way/1018322014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322015",
+        "bridge": "yes",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.4342654,
+            19.764038
+          ],
+          [
+            -96.4340324,
+            19.7638804
+          ],
+          [
+            -96.4338104,
+            19.7637094
+          ],
+          [
+            -96.4336002,
+            19.7635256
+          ]
+        ]
+      },
+      "id": "way/1018322015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322016",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.4206306,
+            19.7429674
+          ],
+          [
+            -96.4205774,
+            19.7427767
+          ]
+        ]
+      },
+      "id": "way/1018322016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018322017",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.4205774,
+            19.7427767
+          ],
+          [
+            -96.420517,
+            19.7425576
+          ],
+          [
+            -96.4204644,
+            19.7423012
+          ],
+          [
+            -96.4203968,
+            19.7419889
+          ],
+          [
+            -96.4203044,
+            19.7415143
+          ],
+          [
+            -96.4201822,
+            19.7405001
+          ],
+          [
+            -96.4201512,
+            19.7402522
+          ],
+          [
+            -96.4201081,
+            19.7399422
+          ],
+          [
+            -96.4199397,
+            19.7390887
+          ]
+        ]
+      },
+      "id": "way/1018322017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018559740",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5938676,
+            19.9809869
+          ],
+          [
+            -96.5909329,
+            19.9790628
+          ],
+          [
+            -96.5899694,
+            19.978239
+          ],
+          [
+            -96.5890446,
+            19.9772616
+          ],
+          [
+            -96.588394,
+            19.9763119
+          ],
+          [
+            -96.5877317,
+            19.975188
+          ],
+          [
+            -96.5871785,
+            19.9739384
+          ],
+          [
+            -96.5866746,
+            19.9728896
+          ]
+        ]
+      },
+      "id": "way/1018559740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018559741",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5866746,
+            19.9728896
+          ],
+          [
+            -96.5863311,
+            19.9721442
+          ]
+        ]
+      },
+      "id": "way/1018559741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018559746",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6271806,
+            20.0021649
+          ],
+          [
+            -96.6253675,
+            20.0009854
+          ],
+          [
+            -96.6170811,
+            19.9958015
+          ]
+        ]
+      },
+      "id": "way/1018559746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018559747",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6170811,
+            19.9958015
+          ],
+          [
+            -96.6161219,
+            19.9951645
+          ]
+        ]
+      },
+      "id": "way/1018559747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018559750",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5863311,
+            19.9721442
+          ],
+          [
+            -96.5857991,
+            19.9710307
+          ]
+        ]
+      },
+      "id": "way/1018559750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018559751",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5857991,
+            19.9710307
+          ],
+          [
+            -96.5855396,
+            19.9704552
+          ]
+        ]
+      },
+      "id": "way/1018559751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613027",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7567933,
+            20.0921683
+          ],
+          [
+            -96.7584648,
+            20.0928557
+          ],
+          [
+            -96.7675915,
+            20.0965689
+          ],
+          [
+            -96.7731606,
+            20.0988755
+          ],
+          [
+            -96.7802583,
+            20.1021482
+          ],
+          [
+            -96.7890255,
+            20.1062278
+          ]
+        ]
+      },
+      "id": "way/1018613027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613028",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8092561,
+            20.1156848
+          ],
+          [
+            -96.8099359,
+            20.1159977
+          ]
+        ]
+      },
+      "id": "way/1018613028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613029",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7895992,
+            20.1064952
+          ],
+          [
+            -96.8005212,
+            20.1116055
+          ],
+          [
+            -96.8092561,
+            20.1156848
+          ]
+        ]
+      },
+      "id": "way/1018613029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613030",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7890255,
+            20.1062278
+          ],
+          [
+            -96.7895992,
+            20.1064952
+          ]
+        ]
+      },
+      "id": "way/1018613030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613035",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7547353,
+            20.0911843
+          ],
+          [
+            -96.7536655,
+            20.0905587
+          ],
+          [
+            -96.752657,
+            20.0899013
+          ],
+          [
+            -96.7481108,
+            20.0864925
+          ],
+          [
+            -96.7221354,
+            20.0669134
+          ]
+        ]
+      },
+      "id": "way/1018613035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613036",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7221354,
+            20.0669134
+          ],
+          [
+            -96.7218968,
+            20.0667327
+          ]
+        ]
+      },
+      "id": "way/1018613036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613039",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7172125,
+            20.0631977
+          ],
+          [
+            -96.7150079,
+            20.0615506
+          ],
+          [
+            -96.713938,
+            20.060775
+          ],
+          [
+            -96.7128469,
+            20.0600471
+          ],
+          [
+            -96.7116302,
+            20.0592672
+          ],
+          [
+            -96.7103485,
+            20.0585197
+          ],
+          [
+            -96.708696,
+            20.0576477
+          ],
+          [
+            -96.7051007,
+            20.0558679
+          ],
+          [
+            -96.7026841,
+            20.0546574
+          ]
+        ]
+      },
+      "id": "way/1018613039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613040",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7026841,
+            20.0546574
+          ],
+          [
+            -96.7023701,
+            20.0545021
+          ]
+        ]
+      },
+      "id": "way/1018613040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613043",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7023701,
+            20.0545021
+          ],
+          [
+            -96.6950123,
+            20.0508505
+          ]
+        ]
+      },
+      "id": "way/1018613043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613044",
+        "bridge": "yes",
+        "bridge:name": "El diamante",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6950123,
+            20.0508505
+          ],
+          [
+            -96.6938291,
+            20.0502552
+          ]
+        ]
+      },
+      "id": "way/1018613044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613045",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6699708,
+            20.0295715
+          ],
+          [
+            -96.6688728,
+            20.027871
+          ],
+          [
+            -96.6682925,
+            20.026793
+          ],
+          [
+            -96.6659477,
+            20.0215827
+          ],
+          [
+            -96.665335,
+            20.0202197
+          ],
+          [
+            -96.6650878,
+            20.0197805
+          ],
+          [
+            -96.664831,
+            20.019394
+          ],
+          [
+            -96.6646165,
+            20.0190995
+          ],
+          [
+            -96.664279,
+            20.0187326
+          ],
+          [
+            -96.6639395,
+            20.0184234
+          ],
+          [
+            -96.6633824,
+            20.0179935
+          ],
+          [
+            -96.6625535,
+            20.0175588
+          ],
+          [
+            -96.6586912,
+            20.0165478
+          ],
+          [
+            -96.6574844,
+            20.0161787
+          ],
+          [
+            -96.6552305,
+            20.0153331
+          ]
+        ]
+      },
+      "id": "way/1018613045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613046",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6702484,
+            20.0299494
+          ],
+          [
+            -96.6699708,
+            20.0295715
+          ]
+        ]
+      },
+      "id": "way/1018613046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613049",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7218968,
+            20.0667327
+          ],
+          [
+            -96.7175214,
+            20.0634317
+          ]
+        ]
+      },
+      "id": "way/1018613049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613050",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.7175214,
+            20.0634317
+          ],
+          [
+            -96.7172125,
+            20.0631977
+          ]
+        ]
+      },
+      "id": "way/1018613050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613051",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8099359,
+            20.1159977
+          ],
+          [
+            -96.8133031,
+            20.1175257
+          ],
+          [
+            -96.8145626,
+            20.1179712
+          ],
+          [
+            -96.8157757,
+            20.1183311
+          ],
+          [
+            -96.8172903,
+            20.1186882
+          ],
+          [
+            -96.818534,
+            20.1188841
+          ],
+          [
+            -96.81963,
+            20.1190084
+          ],
+          [
+            -96.826508,
+            20.1195271
+          ]
+        ]
+      },
+      "id": "way/1018613051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1018613052",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Cardel-Poza Rica tramo Laguna Verde-Gutiérrez Zamora",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.826508,
+            20.1195271
+          ],
+          [
+            -96.8275081,
+            20.1195977
+          ]
+        ]
+      },
+      "id": "way/1018613052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1056109444",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.4491491,
+            19.7901113
+          ],
+          [
+            -96.4455438,
+            19.7723674
+          ],
+          [
+            -96.4451133,
+            19.7701158
+          ],
+          [
+            -96.4446081,
+            19.7687432
+          ],
+          [
+            -96.4438784,
+            19.7676526
+          ],
+          [
+            -96.442709,
+            19.7665824
+          ],
+          [
+            -96.4417863,
+            19.7661785
+          ],
+          [
+            -96.4407563,
+            19.7658554
+          ],
+          [
+            -96.4371622,
+            19.7651487
+          ],
+          [
+            -96.435832,
+            19.7647449
+          ],
+          [
+            -96.4345229,
+            19.7641794
+          ],
+          [
+            -96.4342654,
+            19.764038
+          ]
+        ]
+      },
+      "id": "way/1056109444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1056109445",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.449209,
+            19.7904124
+          ],
+          [
+            -96.4491491,
+            19.7901113
+          ]
+        ]
+      },
+      "id": "way/1056109445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1056112034",
+        "cutting": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5272701,
+            19.9027876
+          ],
+          [
+            -96.5169742,
+            19.8899485
+          ]
+        ]
+      },
+      "id": "way/1056112034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1056112035",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.5276077,
+            19.9032141
+          ],
+          [
+            -96.5272701,
+            19.9027876
+          ]
+        ]
+      },
+      "id": "way/1056112035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1056114121",
+        "bridge": "yes",
+        "bridge:name": "Río Tecolutla",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.2242375,
+            20.425279
+          ],
+          [
+            -97.2252005,
+            20.4261079
+          ],
+          [
+            -97.2259544,
+            20.4269629
+          ]
+        ]
+      },
+      "id": "way/1056114121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1056114122",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.2259544,
+            20.4269629
+          ],
+          [
+            -97.2264344,
+            20.4276449
+          ]
+        ]
+      },
+      "id": "way/1056114122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112144395",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.877559,
+            20.1328238
+          ],
+          [
+            -96.8821793,
+            20.132654
+          ]
+        ]
+      },
+      "id": "way/1112144395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1112144396",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.8768485,
+            20.1328435
+          ],
+          [
+            -96.877559,
+            20.1328238
+          ]
+        ]
+      },
+      "id": "way/1112144396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1120665559",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6817532,
+            20.0415375
+          ],
+          [
+            -96.6814555,
+            20.0412388
+          ]
+        ]
+      },
+      "id": "way/1120665559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1120665560",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.6814555,
+            20.0412388
+          ],
+          [
+            -96.679699,
+            20.0395133
+          ],
+          [
+            -96.6794432,
+            20.039262
+          ],
+          [
+            -96.6785681,
+            20.0384024
+          ],
+          [
+            -96.6744057,
+            20.0343555
+          ],
+          [
+            -96.6727706,
+            20.0327518
+          ],
+          [
+            -96.6720654,
+            20.0320562
+          ],
+          [
+            -96.6713426,
+            20.0312816
+          ],
+          [
+            -96.6702484,
+            20.0299494
+          ]
+        ]
+      },
+      "id": "way/1120665560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1190429150",
+        "bridge": "yes",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "layer": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1245236,
+            20.3407483
+          ],
+          [
+            -97.1246904,
+            20.3409325
+          ]
+        ]
+      },
+      "id": "way/1190429150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1190429151",
+        "highway": "motorway",
+        "lanes": "2",
+        "lanes:backward": "1",
+        "lanes:forward": "1",
+        "name": "Autopista Poza Rica - Cardel",
+        "note": "El trazo de la carretera es del proyecto, la vía se debe actualizar en cuanto haya información más reciente acerca de esta vía",
+        "oneway": "no",
+        "ref": "MEX 180D",
+        "source": "datos.org.mx",
+        "surface": "asphalt",
+        "toll": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.1230459,
+            20.3391343
+          ],
+          [
+            -97.1237848,
+            20.3399413
+          ],
+          [
+            -97.1245236,
+            20.3407483
+          ]
+        ]
+      },
+      "id": "way/1190429151"
+    }
+  ]
+}

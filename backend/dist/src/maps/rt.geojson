@@ -1,0 +1,5502 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-10-24T11:57:11Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4768056",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7838279,
+            -23.5839576
+          ],
+          [
+            -46.7842879,
+            -23.5840093
+          ],
+          [
+            -46.7846936,
+            -23.5840437
+          ],
+          [
+            -46.7850396,
+            -23.5840775
+          ],
+          [
+            -46.785391,
+            -23.5841297
+          ],
+          [
+            -46.7857296,
+            -23.5841893
+          ],
+          [
+            -46.7858677,
+            -23.5842311
+          ],
+          [
+            -46.7862949,
+            -23.5843571
+          ],
+          [
+            -46.7866127,
+            -23.5844481
+          ],
+          [
+            -46.7868561,
+            -23.5845181
+          ],
+          [
+            -46.787103,
+            -23.5845992
+          ],
+          [
+            -46.7874833,
+            -23.5847744
+          ]
+        ]
+      },
+      "id": "way/4768056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4768073",
+        "destination:ref": "SP-332;SP-021;SP-230;SP-280;SP-160",
+        "destination:street": "Rodoanel;Bandeirantes;Rodovia Régis Bittencourt;Rodovia Castelo Branco;Imigrantes",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "90",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.8039183,
+            -23.5929924
+          ],
+          [
+            -46.8044293,
+            -23.5929297
+          ],
+          [
+            -46.8051361,
+            -23.5928092
+          ],
+          [
+            -46.8059367,
+            -23.5926237
+          ],
+          [
+            -46.8067293,
+            -23.5924479
+          ],
+          [
+            -46.8077002,
+            -23.5922685
+          ]
+        ]
+      },
+      "id": "way/4768073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4769574",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7375444,
+            -23.5846668
+          ],
+          [
+            -46.735874,
+            -23.5839841
+          ]
+        ]
+      },
+      "id": "way/4769574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144843667",
+        "destination:ref": "SP-270;BR-272",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7512619,
+            -23.5862677
+          ],
+          [
+            -46.7514201,
+            -23.5863537
+          ],
+          [
+            -46.7515093,
+            -23.5863894
+          ],
+          [
+            -46.7516025,
+            -23.5864029
+          ],
+          [
+            -46.7519338,
+            -23.5864496
+          ]
+        ]
+      },
+      "id": "way/144843667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144843668",
+        "highway": "tertiary",
+        "lanes": "1",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7487104,
+            -23.5862634
+          ],
+          [
+            -46.7488901,
+            -23.5862634
+          ],
+          [
+            -46.7490189,
+            -23.5862732
+          ],
+          [
+            -46.7495003,
+            -23.586299
+          ],
+          [
+            -46.7497887,
+            -23.5863261
+          ],
+          [
+            -46.7504344,
+            -23.5863365
+          ],
+          [
+            -46.7507724,
+            -23.586323
+          ],
+          [
+            -46.7508475,
+            -23.5863095
+          ],
+          [
+            -46.7509185,
+            -23.5862904
+          ],
+          [
+            -46.7509776,
+            -23.5862775
+          ],
+          [
+            -46.7512619,
+            -23.5862677
+          ]
+        ]
+      },
+      "id": "way/144843668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144879135",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7836689,
+            -23.5836632
+          ],
+          [
+            -46.7835766,
+            -23.5838782
+          ]
+        ]
+      },
+      "id": "way/144879135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144879137",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "no",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7835766,
+            -23.5838782
+          ],
+          [
+            -46.7835475,
+            -23.5841372
+          ],
+          [
+            -46.7835389,
+            -23.5842133
+          ],
+          [
+            -46.7835027,
+            -23.5843497
+          ],
+          [
+            -46.7834182,
+            -23.5844763
+          ],
+          [
+            -46.7833149,
+            -23.5845562
+          ],
+          [
+            -46.7830803,
+            -23.5846189
+          ],
+          [
+            -46.7828818,
+            -23.5846349
+          ],
+          [
+            -46.7826444,
+            -23.5845845
+          ],
+          [
+            -46.7824419,
+            -23.5845157
+          ],
+          [
+            -46.7820389,
+            -23.5842963
+          ]
+        ]
+      },
+      "id": "way/144879137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144879139",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7835766,
+            -23.5838782
+          ],
+          [
+            -46.78353,
+            -23.583659
+          ]
+        ]
+      },
+      "id": "way/144879139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144879140",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7820021,
+            -23.5840448
+          ],
+          [
+            -46.7819966,
+            -23.5841027
+          ],
+          [
+            -46.7820013,
+            -23.5841979
+          ],
+          [
+            -46.7820389,
+            -23.5842963
+          ]
+        ]
+      },
+      "id": "way/144879140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144879147",
+        "bridge": "viaduct",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7833638,
+            -23.5839131
+          ],
+          [
+            -46.7838279,
+            -23.5839576
+          ]
+        ]
+      },
+      "id": "way/144879147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144879149",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7833535,
+            -23.5840251
+          ],
+          [
+            -46.7823355,
+            -23.5839049
+          ],
+          [
+            -46.7803196,
+            -23.583724
+          ]
+        ]
+      },
+      "id": "way/144879149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/144879150",
+        "bridge": "viaduct",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7838065,
+            -23.5840744
+          ],
+          [
+            -46.7833535,
+            -23.5840251
+          ]
+        ]
+      },
+      "id": "way/144879150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146226096",
+        "bridge": "viaduct",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7384094,
+            -23.5849729
+          ],
+          [
+            -46.7375444,
+            -23.5846668
+          ]
+        ]
+      },
+      "id": "way/146226096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/146226101",
+        "bridge": "viaduct",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7376128,
+            -23.5845513
+          ],
+          [
+            -46.7384322,
+            -23.584845
+          ]
+        ]
+      },
+      "id": "way/146226101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/148632560",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7990702,
+            -23.5904999
+          ],
+          [
+            -46.7990102,
+            -23.5904766
+          ],
+          [
+            -46.7989482,
+            -23.5904572
+          ],
+          [
+            -46.7988775,
+            -23.5904465
+          ],
+          [
+            -46.7987878,
+            -23.5904319
+          ]
+        ]
+      },
+      "id": "way/148632560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151641480",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7596377,
+            -23.5861356
+          ],
+          [
+            -46.7595894,
+            -23.5861465
+          ],
+          [
+            -46.7589209,
+            -23.5862972
+          ]
+        ]
+      },
+      "id": "way/151641480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151641481",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.735874,
+            -23.5839841
+          ],
+          [
+            -46.7350298,
+            -23.5836258
+          ],
+          [
+            -46.7346691,
+            -23.5834648
+          ],
+          [
+            -46.7343472,
+            -23.5833013
+          ],
+          [
+            -46.7340106,
+            -23.583112
+          ],
+          [
+            -46.7334996,
+            -23.5827789
+          ],
+          [
+            -46.7331657,
+            -23.5825639
+          ],
+          [
+            -46.7330463,
+            -23.5824987
+          ],
+          [
+            -46.7328411,
+            -23.5824028
+          ]
+        ]
+      },
+      "id": "way/151641481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151641487",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "no",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7418212,
+            -23.5851222
+          ],
+          [
+            -46.7408489,
+            -23.5851781
+          ],
+          [
+            -46.7398711,
+            -23.5852201
+          ],
+          [
+            -46.7394841,
+            -23.5851987
+          ],
+          [
+            -46.7390826,
+            -23.5851499
+          ],
+          [
+            -46.7387326,
+            -23.5850724
+          ],
+          [
+            -46.7384094,
+            -23.5849729
+          ]
+        ]
+      },
+      "id": "way/151641487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151641488",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7485361,
+            -23.586358
+          ],
+          [
+            -46.7483161,
+            -23.5862794
+          ],
+          [
+            -46.7480975,
+            -23.5861933
+          ],
+          [
+            -46.7478374,
+            -23.5860827
+          ],
+          [
+            -46.7474136,
+            -23.5858947
+          ],
+          [
+            -46.7471159,
+            -23.5857509
+          ],
+          [
+            -46.7469368,
+            -23.5856759
+          ]
+        ]
+      },
+      "id": "way/151641488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151641490",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7460449,
+            -23.5852759
+          ],
+          [
+            -46.7457613,
+            -23.5851744
+          ],
+          [
+            -46.7455535,
+            -23.585113
+          ],
+          [
+            -46.745363,
+            -23.5850712
+          ],
+          [
+            -46.7451008,
+            -23.5850319
+          ],
+          [
+            -46.7448219,
+            -23.5850018
+          ],
+          [
+            -46.7446677,
+            -23.5849962
+          ],
+          [
+            -46.7429612,
+            -23.5850783
+          ]
+        ]
+      },
+      "id": "way/151641490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151699991",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.747781,
+            -23.585907
+          ],
+          [
+            -46.7480814,
+            -23.5860434
+          ],
+          [
+            -46.7483658,
+            -23.5861491
+          ],
+          [
+            -46.7487104,
+            -23.5862634
+          ],
+          [
+            -46.7489129,
+            -23.5863175
+          ],
+          [
+            -46.7491248,
+            -23.5863691
+          ],
+          [
+            -46.7495191,
+            -23.5864256
+          ],
+          [
+            -46.7498222,
+            -23.5864465
+          ],
+          [
+            -46.7506886,
+            -23.5864483
+          ],
+          [
+            -46.7510439,
+            -23.586449
+          ],
+          [
+            -46.7519338,
+            -23.5864496
+          ],
+          [
+            -46.7524742,
+            -23.5864496
+          ]
+        ]
+      },
+      "id": "way/151699991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151699992",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7603231,
+            -23.5858517
+          ],
+          [
+            -46.7607683,
+            -23.5857546
+          ],
+          [
+            -46.7611223,
+            -23.5856906
+          ],
+          [
+            -46.7618063,
+            -23.5855813
+          ],
+          [
+            -46.7623776,
+            -23.5855198
+          ]
+        ]
+      },
+      "id": "way/151699992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151699994",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7353705,
+            -23.5836504
+          ],
+          [
+            -46.7376128,
+            -23.5845513
+          ]
+        ]
+      },
+      "id": "way/151699994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151699995",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7602017,
+            -23.5860133
+          ],
+          [
+            -46.759973,
+            -23.5860655
+          ],
+          [
+            -46.7596377,
+            -23.5861356
+          ]
+        ]
+      },
+      "id": "way/151699995"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151699996",
+        "cycleway:both": "no",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.762788,
+            -23.5855837
+          ],
+          [
+            -46.7623562,
+            -23.5856353
+          ],
+          [
+            -46.7617098,
+            -23.5857005
+          ],
+          [
+            -46.7613879,
+            -23.5857447
+          ],
+          [
+            -46.7609252,
+            -23.5858443
+          ],
+          [
+            -46.7602017,
+            -23.5860133
+          ]
+        ]
+      },
+      "id": "way/151699996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152990865",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Rodovia Raposo Tavares",
+        "note": "(local)",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7929184,
+            -23.5876358
+          ],
+          [
+            -46.7929662,
+            -23.5876627
+          ],
+          [
+            -46.7933598,
+            -23.5879066
+          ],
+          [
+            -46.7935127,
+            -23.5879939
+          ],
+          [
+            -46.7937045,
+            -23.5881174
+          ],
+          [
+            -46.7937627,
+            -23.5881526
+          ],
+          [
+            -46.7939352,
+            -23.5882569
+          ],
+          [
+            -46.7943684,
+            -23.588495
+          ],
+          [
+            -46.794493,
+            -23.5885635
+          ],
+          [
+            -46.7946325,
+            -23.588649
+          ],
+          [
+            -46.7948578,
+            -23.5888051
+          ],
+          [
+            -46.7949593,
+            -23.5888668
+          ],
+          [
+            -46.7950764,
+            -23.5889379
+          ],
+          [
+            -46.7956666,
+            -23.5892863
+          ],
+          [
+            -46.7957135,
+            -23.5893151
+          ]
+        ]
+      },
+      "id": "way/152990865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153729596",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7584837,
+            -23.58639
+          ],
+          [
+            -46.758243,
+            -23.5864318
+          ]
+        ]
+      },
+      "id": "way/153729596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153772330",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7589209,
+            -23.5862972
+          ],
+          [
+            -46.7587057,
+            -23.5863439
+          ],
+          [
+            -46.7584837,
+            -23.58639
+          ]
+        ]
+      },
+      "id": "way/153772330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154421021",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7549201,
+            -23.5865691
+          ],
+          [
+            -46.7545402,
+            -23.5865645
+          ]
+        ]
+      },
+      "id": "way/154421021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154421022",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7545402,
+            -23.5865645
+          ],
+          [
+            -46.75347,
+            -23.5865608
+          ]
+        ]
+      },
+      "id": "way/154421022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154937182",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7623776,
+            -23.5855198
+          ],
+          [
+            -46.7640178,
+            -23.5852949
+          ],
+          [
+            -46.7643397,
+            -23.5852519
+          ],
+          [
+            -46.764836,
+            -23.5851724
+          ],
+          [
+            -46.7652511,
+            -23.585122
+          ],
+          [
+            -46.7656766,
+            -23.5850637
+          ],
+          [
+            -46.766084,
+            -23.5849897
+          ],
+          [
+            -46.7664107,
+            -23.5849116
+          ],
+          [
+            -46.7666968,
+            -23.5848274
+          ],
+          [
+            -46.7670608,
+            -23.5847203
+          ],
+          [
+            -46.7672217,
+            -23.5846591
+          ]
+        ]
+      },
+      "id": "way/154937182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154937197",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7732852,
+            -23.5828541
+          ],
+          [
+            -46.774402,
+            -23.5829657
+          ],
+          [
+            -46.7747641,
+            -23.5829867
+          ],
+          [
+            -46.7750743,
+            -23.5830277
+          ],
+          [
+            -46.7753206,
+            -23.5830566
+          ],
+          [
+            -46.7756478,
+            -23.5830898
+          ],
+          [
+            -46.7765102,
+            -23.583209
+          ],
+          [
+            -46.7769497,
+            -23.5833094
+          ]
+        ]
+      },
+      "id": "way/154937197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154937203",
+        "destination": "São Paulo",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "maxspeed": "70",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7667224,
+            -23.5850488
+          ],
+          [
+            -46.766189,
+            -23.5851941
+          ],
+          [
+            -46.766016,
+            -23.585231
+          ],
+          [
+            -46.7658323,
+            -23.5852688
+          ],
+          [
+            -46.7657371,
+            -23.5852887
+          ],
+          [
+            -46.7654962,
+            -23.5853177
+          ],
+          [
+            -46.7647889,
+            -23.585403
+          ]
+        ]
+      },
+      "id": "way/154937203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155226773",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7588733,
+            -23.586197
+          ],
+          [
+            -46.7603231,
+            -23.5858517
+          ]
+        ]
+      },
+      "id": "way/155226773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163657162",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.758243,
+            -23.5864318
+          ],
+          [
+            -46.7579117,
+            -23.5864895
+          ],
+          [
+            -46.7576288,
+            -23.5865129
+          ],
+          [
+            -46.7571647,
+            -23.5865362
+          ],
+          [
+            -46.7565461,
+            -23.5865448
+          ]
+        ]
+      },
+      "id": "way/163657162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/163657167",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7555957,
+            -23.5865615
+          ],
+          [
+            -46.7553389,
+            -23.5865585
+          ],
+          [
+            -46.7549201,
+            -23.5865691
+          ]
+        ]
+      },
+      "id": "way/163657167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/195270961",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7423925,
+            -23.5851056
+          ],
+          [
+            -46.7418212,
+            -23.5851222
+          ]
+        ]
+      },
+      "id": "way/195270961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/195828082",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7807699,
+            -23.5836192
+          ],
+          [
+            -46.7833638,
+            -23.5839131
+          ]
+        ]
+      },
+      "id": "way/195828082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224500552",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7820389,
+            -23.5842963
+          ],
+          [
+            -46.7818652,
+            -23.5842072
+          ],
+          [
+            -46.7816984,
+            -23.5841352
+          ]
+        ]
+      },
+      "id": "way/224500552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/226440622",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7816984,
+            -23.5841352
+          ],
+          [
+            -46.7815524,
+            -23.5840779
+          ],
+          [
+            -46.7813481,
+            -23.5840446
+          ]
+        ]
+      },
+      "id": "way/226440622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227636030",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7118998,
+            -23.5731338
+          ],
+          [
+            -46.7123766,
+            -23.5732426
+          ],
+          [
+            -46.712565,
+            -23.5732949
+          ],
+          [
+            -46.7128801,
+            -23.5733895
+          ],
+          [
+            -46.7132503,
+            -23.5735186
+          ],
+          [
+            -46.7139651,
+            -23.5737583
+          ],
+          [
+            -46.7151091,
+            -23.5741197
+          ],
+          [
+            -46.7152901,
+            -23.5741811
+          ],
+          [
+            -46.715609,
+            -23.5742935
+          ],
+          [
+            -46.7159261,
+            -23.5744325
+          ],
+          [
+            -46.7164294,
+            -23.5746832
+          ],
+          [
+            -46.7170027,
+            -23.5749764
+          ],
+          [
+            -46.7171582,
+            -23.5750759
+          ],
+          [
+            -46.717222,
+            -23.575122
+          ],
+          [
+            -46.7175653,
+            -23.5754379
+          ],
+          [
+            -46.717633,
+            -23.5754933
+          ],
+          [
+            -46.7178362,
+            -23.5756377
+          ],
+          [
+            -46.7179783,
+            -23.5757071
+          ],
+          [
+            -46.7181078,
+            -23.5757563
+          ],
+          [
+            -46.7182734,
+            -23.5758055
+          ],
+          [
+            -46.7184632,
+            -23.5758368
+          ],
+          [
+            -46.718659,
+            -23.5758479
+          ]
+        ]
+      },
+      "id": "way/227636030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227638483",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|none|merge_to_left"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7310547,
+            -23.581495
+          ],
+          [
+            -46.731243,
+            -23.5815843
+          ],
+          [
+            -46.7320673,
+            -23.5819597
+          ]
+        ]
+      },
+      "id": "way/227638483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227639391",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7384322,
+            -23.584845
+          ],
+          [
+            -46.7387205,
+            -23.5849385
+          ],
+          [
+            -46.7391618,
+            -23.5850294
+          ],
+          [
+            -46.7394635,
+            -23.5850712
+          ],
+          [
+            -46.7398572,
+            -23.5850763
+          ],
+          [
+            -46.7402293,
+            -23.5850798
+          ],
+          [
+            -46.7420921,
+            -23.5850024
+          ],
+          [
+            -46.7442727,
+            -23.5849016
+          ],
+          [
+            -46.7446241,
+            -23.5848856
+          ],
+          [
+            -46.7447998,
+            -23.5848905
+          ],
+          [
+            -46.7450143,
+            -23.5849004
+          ],
+          [
+            -46.7452329,
+            -23.5849286
+          ],
+          [
+            -46.7457466,
+            -23.5850356
+          ],
+          [
+            -46.7460591,
+            -23.5851382
+          ],
+          [
+            -46.7463849,
+            -23.5852678
+          ],
+          [
+            -46.7474297,
+            -23.5857509
+          ],
+          [
+            -46.747781,
+            -23.585907
+          ]
+        ]
+      },
+      "id": "way/227639391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227641122",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7523059,
+            -23.5865657
+          ],
+          [
+            -46.7511647,
+            -23.5865718
+          ],
+          [
+            -46.7510802,
+            -23.5865719
+          ],
+          [
+            -46.7499831,
+            -23.5865731
+          ],
+          [
+            -46.7495728,
+            -23.5865473
+          ],
+          [
+            -46.7491463,
+            -23.586508
+          ],
+          [
+            -46.7487855,
+            -23.5864342
+          ],
+          [
+            -46.7485361,
+            -23.586358
+          ]
+        ]
+      },
+      "id": "way/227641122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/227641123",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7524742,
+            -23.5864496
+          ],
+          [
+            -46.7528491,
+            -23.5864459
+          ],
+          [
+            -46.7532286,
+            -23.5864392
+          ],
+          [
+            -46.7536323,
+            -23.5864385
+          ],
+          [
+            -46.7540927,
+            -23.5864378
+          ],
+          [
+            -46.7542211,
+            -23.5864376
+          ],
+          [
+            -46.7547551,
+            -23.5864368
+          ],
+          [
+            -46.7549131,
+            -23.5864367
+          ]
+        ]
+      },
+      "id": "way/227641123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228042731",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7328411,
+            -23.5824028
+          ],
+          [
+            -46.7310974,
+            -23.5816493
+          ],
+          [
+            -46.7310587,
+            -23.5816321
+          ],
+          [
+            -46.7307544,
+            -23.5814923
+          ],
+          [
+            -46.7304952,
+            -23.5813807
+          ],
+          [
+            -46.7296248,
+            -23.5810059
+          ],
+          [
+            -46.7292827,
+            -23.5808491
+          ],
+          [
+            -46.7291397,
+            -23.580773
+          ],
+          [
+            -46.729015,
+            -23.5806956
+          ],
+          [
+            -46.7289063,
+            -23.5805985
+          ],
+          [
+            -46.7288025,
+            -23.5804749
+          ],
+          [
+            -46.728742,
+            -23.580367
+          ],
+          [
+            -46.7286704,
+            -23.5802068
+          ],
+          [
+            -46.7285992,
+            -23.5800147
+          ],
+          [
+            -46.7285469,
+            -23.5798549
+          ],
+          [
+            -46.728496,
+            -23.5796422
+          ],
+          [
+            -46.7284437,
+            -23.5794948
+          ],
+          [
+            -46.7283833,
+            -23.5793559
+          ],
+          [
+            -46.7283049,
+            -23.5792304
+          ],
+          [
+            -46.7282276,
+            -23.5791331
+          ],
+          [
+            -46.72815,
+            -23.5790604
+          ],
+          [
+            -46.7280413,
+            -23.5789836
+          ],
+          [
+            -46.7279246,
+            -23.5789171
+          ],
+          [
+            -46.7277986,
+            -23.5788553
+          ],
+          [
+            -46.7267188,
+            -23.5784244
+          ],
+          [
+            -46.7265176,
+            -23.5783437
+          ],
+          [
+            -46.7259988,
+            -23.5781357
+          ],
+          [
+            -46.725843,
+            -23.5780732
+          ],
+          [
+            -46.7256894,
+            -23.578004
+          ],
+          [
+            -46.725439,
+            -23.5779136
+          ],
+          [
+            -46.7250869,
+            -23.5778093
+          ],
+          [
+            -46.7249727,
+            -23.5777739
+          ]
+        ]
+      },
+      "id": "way/228042731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228042734",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7249727,
+            -23.5777739
+          ],
+          [
+            -46.7242996,
+            -23.5775966
+          ]
+        ]
+      },
+      "id": "way/228042734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228063668",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7341353,
+            -23.5830518
+          ],
+          [
+            -46.7346141,
+            -23.5833099
+          ],
+          [
+            -46.7349789,
+            -23.5834906
+          ],
+          [
+            -46.7353705,
+            -23.5836504
+          ]
+        ]
+      },
+      "id": "way/228063668"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228063670",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7332019,
+            -23.5824686
+          ],
+          [
+            -46.7335,
+            -23.5826271
+          ],
+          [
+            -46.7337786,
+            -23.5828041
+          ]
+        ]
+      },
+      "id": "way/228063670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/228064530",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.719766,
+            -23.5758583
+          ],
+          [
+            -46.7194444,
+            -23.5758968
+          ],
+          [
+            -46.7192153,
+            -23.5759222
+          ],
+          [
+            -46.7188757,
+            -23.5759588
+          ],
+          [
+            -46.7187019,
+            -23.5759683
+          ],
+          [
+            -46.718545,
+            -23.5759659
+          ],
+          [
+            -46.7183585,
+            -23.5759425
+          ],
+          [
+            -46.7181115,
+            -23.5758777
+          ],
+          [
+            -46.7179039,
+            -23.5757975
+          ],
+          [
+            -46.7177001,
+            -23.5756893
+          ],
+          [
+            -46.7175925,
+            -23.5756188
+          ],
+          [
+            -46.717545,
+            -23.5755851
+          ],
+          [
+            -46.7174727,
+            -23.5755228
+          ],
+          [
+            -46.7173581,
+            -23.5754214
+          ],
+          [
+            -46.7172356,
+            -23.5753124
+          ],
+          [
+            -46.7169842,
+            -23.575107
+          ],
+          [
+            -46.7169335,
+            -23.5750672
+          ],
+          [
+            -46.7168022,
+            -23.5749924
+          ],
+          [
+            -46.7159604,
+            -23.574602
+          ],
+          [
+            -46.7157573,
+            -23.5744991
+          ],
+          [
+            -46.7156298,
+            -23.574438
+          ],
+          [
+            -46.715327,
+            -23.5743188
+          ],
+          [
+            -46.7148006,
+            -23.5741479
+          ],
+          [
+            -46.71389,
+            -23.5738529
+          ],
+          [
+            -46.7129995,
+            -23.5735493
+          ],
+          [
+            -46.7126749,
+            -23.5734528
+          ],
+          [
+            -46.7124476,
+            -23.5733858
+          ],
+          [
+            -46.7120992,
+            -23.573297
+          ],
+          [
+            -46.7119467,
+            -23.5732791
+          ],
+          [
+            -46.711816,
+            -23.5732747
+          ],
+          [
+            -46.7117588,
+            -23.5732774
+          ]
+        ]
+      },
+      "id": "way/228064530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/236732313",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7569133,
+            -23.5864281
+          ],
+          [
+            -46.7571366,
+            -23.5864152
+          ]
+        ]
+      },
+      "id": "way/236732313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/236899689",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7571366,
+            -23.5864152
+          ],
+          [
+            -46.7576449,
+            -23.5863888
+          ],
+          [
+            -46.7579139,
+            -23.586359
+          ],
+          [
+            -46.7580338,
+            -23.5863457
+          ]
+        ]
+      },
+      "id": "way/236899689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/241983710",
+        "destination": "Jardim Amaralina;Parque Ipê",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7964853,
+            -23.5899696
+          ],
+          [
+            -46.7965456,
+            -23.5899745
+          ],
+          [
+            -46.7966066,
+            -23.589988
+          ],
+          [
+            -46.7967106,
+            -23.5900181
+          ],
+          [
+            -46.7968373,
+            -23.5900556
+          ],
+          [
+            -46.7969412,
+            -23.5900821
+          ],
+          [
+            -46.7969979,
+            -23.5900876
+          ],
+          [
+            -46.7970287,
+            -23.590086
+          ]
+        ]
+      },
+      "id": "way/241983710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243700383",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "3",
+        "maxspeed": "90",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7679809,
+            -23.584212
+          ],
+          [
+            -46.7683074,
+            -23.584019
+          ],
+          [
+            -46.7685443,
+            -23.5838785
+          ],
+          [
+            -46.7687397,
+            -23.5837651
+          ],
+          [
+            -46.7691381,
+            -23.5835305
+          ],
+          [
+            -46.7694443,
+            -23.5833605
+          ],
+          [
+            -46.769714,
+            -23.5832237
+          ]
+        ]
+      },
+      "id": "way/243700383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243700384",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7672217,
+            -23.5846591
+          ],
+          [
+            -46.7675962,
+            -23.5845103
+          ],
+          [
+            -46.7679252,
+            -23.5843441
+          ],
+          [
+            -46.7682506,
+            -23.5841733
+          ],
+          [
+            -46.7686101,
+            -23.5839676
+          ],
+          [
+            -46.7689116,
+            -23.5838088
+          ],
+          [
+            -46.7690314,
+            -23.5837453
+          ],
+          [
+            -46.7692174,
+            -23.5836466
+          ],
+          [
+            -46.7695231,
+            -23.5834893
+          ],
+          [
+            -46.7698075,
+            -23.5833393
+          ],
+          [
+            -46.7701041,
+            -23.5832056
+          ],
+          [
+            -46.7703455,
+            -23.5831392
+          ],
+          [
+            -46.7704727,
+            -23.5831107
+          ],
+          [
+            -46.7708563,
+            -23.5830665
+          ],
+          [
+            -46.7713316,
+            -23.5830204
+          ],
+          [
+            -46.7719881,
+            -23.5829642
+          ],
+          [
+            -46.7724507,
+            -23.58294
+          ],
+          [
+            -46.7728042,
+            -23.5829463
+          ],
+          [
+            -46.7732303,
+            -23.5829672
+          ],
+          [
+            -46.7745914,
+            -23.5830951
+          ],
+          [
+            -46.7755754,
+            -23.5831882
+          ],
+          [
+            -46.7764999,
+            -23.5832772
+          ],
+          [
+            -46.7769497,
+            -23.5833094
+          ]
+        ]
+      },
+      "id": "way/243700384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243703872",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7741451,
+            -23.583166
+          ],
+          [
+            -46.7729792,
+            -23.5830652
+          ],
+          [
+            -46.7725715,
+            -23.583064
+          ],
+          [
+            -46.7717414,
+            -23.5831045
+          ],
+          [
+            -46.7716394,
+            -23.5831156
+          ],
+          [
+            -46.7711956,
+            -23.5831476
+          ],
+          [
+            -46.7706459,
+            -23.583197
+          ],
+          [
+            -46.7703623,
+            -23.5832474
+          ],
+          [
+            -46.7702221,
+            -23.5832793
+          ],
+          [
+            -46.7700515,
+            -23.5833541
+          ],
+          [
+            -46.7698788,
+            -23.583444
+          ],
+          [
+            -46.7696479,
+            -23.5835814
+          ],
+          [
+            -46.7694218,
+            -23.5837067
+          ]
+        ]
+      },
+      "id": "way/243703872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243703875",
+        "foot": "yes",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7741451,
+            -23.583166
+          ],
+          [
+            -46.773377,
+            -23.5831756
+          ],
+          [
+            -46.773148,
+            -23.5831864
+          ],
+          [
+            -46.7727395,
+            -23.5832061
+          ],
+          [
+            -46.7725528,
+            -23.5832197
+          ],
+          [
+            -46.7723178,
+            -23.583227
+          ],
+          [
+            -46.7722541,
+            -23.5832353
+          ],
+          [
+            -46.7716518,
+            -23.5832815
+          ],
+          [
+            -46.7713138,
+            -23.583305
+          ],
+          [
+            -46.7708398,
+            -23.5833496
+          ]
+        ]
+      },
+      "id": "way/243703875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243703880",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7692728,
+            -23.5837974
+          ],
+          [
+            -46.7690239,
+            -23.5839404
+          ],
+          [
+            -46.7687039,
+            -23.5841113
+          ],
+          [
+            -46.7683132,
+            -23.5842726
+          ],
+          [
+            -46.7682875,
+            -23.5842853
+          ],
+          [
+            -46.7677766,
+            -23.5845377
+          ],
+          [
+            -46.7673658,
+            -23.5847162
+          ]
+        ]
+      },
+      "id": "way/243703880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243703886",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7769497,
+            -23.5833094
+          ],
+          [
+            -46.7781664,
+            -23.5833897
+          ],
+          [
+            -46.7790663,
+            -23.5834721
+          ],
+          [
+            -46.7793828,
+            -23.5834984
+          ],
+          [
+            -46.7795384,
+            -23.5835114
+          ],
+          [
+            -46.7799568,
+            -23.5835483
+          ],
+          [
+            -46.7803686,
+            -23.5835865
+          ],
+          [
+            -46.7807699,
+            -23.5836192
+          ]
+        ]
+      },
+      "id": "way/243703886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243704655",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7773631,
+            -23.5834832
+          ],
+          [
+            -46.7741451,
+            -23.583166
+          ]
+        ]
+      },
+      "id": "way/243704655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243710657",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7874375,
+            -23.5848979
+          ],
+          [
+            -46.7869399,
+            -23.5847132
+          ],
+          [
+            -46.7867958,
+            -23.5846536
+          ],
+          [
+            -46.7867562,
+            -23.5846373
+          ],
+          [
+            -46.7865235,
+            -23.5845593
+          ],
+          [
+            -46.7862124,
+            -23.5844524
+          ],
+          [
+            -46.7856847,
+            -23.5843079
+          ],
+          [
+            -46.7855509,
+            -23.584276
+          ],
+          [
+            -46.7852991,
+            -23.5842311
+          ],
+          [
+            -46.7850658,
+            -23.5842035
+          ],
+          [
+            -46.7847255,
+            -23.5841575
+          ]
+        ]
+      },
+      "id": "way/243710657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243710665",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7990702,
+            -23.5904999
+          ],
+          [
+            -46.7991138,
+            -23.5905743
+          ],
+          [
+            -46.7991386,
+            -23.5906339
+          ],
+          [
+            -46.7991484,
+            -23.5906766
+          ],
+          [
+            -46.79915,
+            -23.5907172
+          ],
+          [
+            -46.799142,
+            -23.5907556
+          ],
+          [
+            -46.7990461,
+            -23.5909817
+          ],
+          [
+            -46.7990357,
+            -23.5910435
+          ],
+          [
+            -46.799036,
+            -23.591096
+          ],
+          [
+            -46.7990474,
+            -23.591151
+          ],
+          [
+            -46.7990692,
+            -23.5911934
+          ],
+          [
+            -46.7990957,
+            -23.5912263
+          ],
+          [
+            -46.7991282,
+            -23.5912579
+          ],
+          [
+            -46.7991648,
+            -23.5912822
+          ],
+          [
+            -46.799203,
+            -23.5912997
+          ],
+          [
+            -46.799448,
+            -23.5914125
+          ],
+          [
+            -46.7996108,
+            -23.5914801
+          ],
+          [
+            -46.7998548,
+            -23.5915819
+          ],
+          [
+            -46.8000171,
+            -23.5916491
+          ],
+          [
+            -46.8005145,
+            -23.5918315
+          ],
+          [
+            -46.8008311,
+            -23.5919477
+          ],
+          [
+            -46.8011047,
+            -23.592046
+          ],
+          [
+            -46.8011811,
+            -23.5920786
+          ],
+          [
+            -46.8016921,
+            -23.5922967
+          ],
+          [
+            -46.8022285,
+            -23.5924983
+          ],
+          [
+            -46.8026161,
+            -23.5926298
+          ],
+          [
+            -46.803001,
+            -23.5927257
+          ],
+          [
+            -46.8033122,
+            -23.5927761
+          ],
+          [
+            -46.8036689,
+            -23.5928166
+          ],
+          [
+            -46.8039384,
+            -23.5928215
+          ],
+          [
+            -46.8043448,
+            -23.5928117
+          ],
+          [
+            -46.8046586,
+            -23.5927687
+          ],
+          [
+            -46.8051615,
+            -23.5926765
+          ],
+          [
+            -46.8055759,
+            -23.5925696
+          ],
+          [
+            -46.8059595,
+            -23.5923815
+          ],
+          [
+            -46.8062237,
+            -23.5922279
+          ]
+        ]
+      },
+      "id": "way/243710665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243716727",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7874833,
+            -23.5847744
+          ],
+          [
+            -46.7875728,
+            -23.5848181
+          ],
+          [
+            -46.7876438,
+            -23.5848594
+          ],
+          [
+            -46.7877294,
+            -23.5849058
+          ],
+          [
+            -46.7880419,
+            -23.5850884
+          ],
+          [
+            -46.7886982,
+            -23.5854744
+          ],
+          [
+            -46.7890992,
+            -23.5857189
+          ],
+          [
+            -46.7893694,
+            -23.5858762
+          ],
+          [
+            -46.78994,
+            -23.5862007
+          ],
+          [
+            -46.79018,
+            -23.5863506
+          ],
+          [
+            -46.7902096,
+            -23.5863691
+          ],
+          [
+            -46.790738,
+            -23.5866727
+          ],
+          [
+            -46.7913669,
+            -23.587034
+          ],
+          [
+            -46.7920898,
+            -23.5874445
+          ]
+        ]
+      },
+      "id": "way/243716727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243872386",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.8240054,
+            -23.5907494
+          ],
+          [
+            -46.8237332,
+            -23.5907371
+          ],
+          [
+            -46.8235078,
+            -23.590747
+          ],
+          [
+            -46.8232906,
+            -23.5907777
+          ],
+          [
+            -46.8230948,
+            -23.5908146
+          ],
+          [
+            -46.8228762,
+            -23.590876
+          ],
+          [
+            -46.8224631,
+            -23.5910247
+          ],
+          [
+            -46.8219428,
+            -23.5912201
+          ],
+          [
+            -46.8215954,
+            -23.5913406
+          ],
+          [
+            -46.8211485,
+            -23.5914586
+          ],
+          [
+            -46.8208323,
+            -23.5914917
+          ],
+          [
+            -46.8205567,
+            -23.5915097
+          ],
+          [
+            -46.8199901,
+            -23.5914868
+          ],
+          [
+            -46.8197487,
+            -23.5914573
+          ],
+          [
+            -46.8195462,
+            -23.5914131
+          ],
+          [
+            -46.8192364,
+            -23.5913369
+          ],
+          [
+            -46.8189722,
+            -23.5912533
+          ],
+          [
+            -46.8187563,
+            -23.5911574
+          ],
+          [
+            -46.8184827,
+            -23.5910198
+          ],
+          [
+            -46.8183661,
+            -23.5909448
+          ],
+          [
+            -46.8182561,
+            -23.5908821
+          ],
+          [
+            -46.8180898,
+            -23.5907605
+          ],
+          [
+            -46.8177558,
+            -23.590522
+          ],
+          [
+            -46.8174742,
+            -23.5902726
+          ],
+          [
+            -46.8167581,
+            -23.5896322
+          ],
+          [
+            -46.8165408,
+            -23.5894737
+          ],
+          [
+            -46.8163638,
+            -23.5893815
+          ],
+          [
+            -46.8160956,
+            -23.5892992
+          ],
+          [
+            -46.8159051,
+            -23.5892684
+          ],
+          [
+            -46.8155953,
+            -23.5892697
+          ],
+          [
+            -46.8153432,
+            -23.5893053
+          ],
+          [
+            -46.8150991,
+            -23.5893999
+          ],
+          [
+            -46.814906,
+            -23.5895056
+          ],
+          [
+            -46.8144406,
+            -23.5898326
+          ],
+          [
+            -46.8141349,
+            -23.5900784
+          ],
+          [
+            -46.8138774,
+            -23.5902664
+          ],
+          [
+            -46.8135555,
+            -23.590495
+          ],
+          [
+            -46.8132404,
+            -23.5907248
+          ],
+          [
+            -46.8129171,
+            -23.5909694
+          ],
+          [
+            -46.8126436,
+            -23.5911538
+          ],
+          [
+            -46.8124102,
+            -23.5912926
+          ],
+          [
+            -46.8121165,
+            -23.5914635
+          ],
+          [
+            -46.8117195,
+            -23.5916466
+          ],
+          [
+            -46.8113253,
+            -23.5918199
+          ],
+          [
+            -46.810986,
+            -23.5919539
+          ],
+          [
+            -46.8106521,
+            -23.592075
+          ],
+          [
+            -46.8103142,
+            -23.5921877
+          ],
+          [
+            -46.8099773,
+            -23.5923001
+          ],
+          [
+            -46.8096314,
+            -23.592416
+          ],
+          [
+            -46.8093589,
+            -23.59249
+          ],
+          [
+            -46.8091224,
+            -23.5925525
+          ],
+          [
+            -46.8088996,
+            -23.5926057
+          ],
+          [
+            -46.8087046,
+            -23.5926516
+          ],
+          [
+            -46.808405,
+            -23.5927088
+          ],
+          [
+            -46.8080489,
+            -23.5927576
+          ],
+          [
+            -46.8077914,
+            -23.5927933
+          ],
+          [
+            -46.807534,
+            -23.5928154
+          ],
+          [
+            -46.8073968,
+            -23.5928261
+          ],
+          [
+            -46.8072433,
+            -23.5928381
+          ],
+          [
+            -46.806935,
+            -23.592871
+          ],
+          [
+            -46.8065811,
+            -23.5929153
+          ],
+          [
+            -46.8060802,
+            -23.5929653
+          ],
+          [
+            -46.8058306,
+            -23.5929917
+          ],
+          [
+            -46.8054857,
+            -23.5930149
+          ],
+          [
+            -46.8051562,
+            -23.5930538
+          ],
+          [
+            -46.8048397,
+            -23.5930809
+          ],
+          [
+            -46.8044843,
+            -23.5931067
+          ],
+          [
+            -46.8042268,
+            -23.593103
+          ],
+          [
+            -46.8039022,
+            -23.5931017
+          ],
+          [
+            -46.8035267,
+            -23.593071
+          ],
+          [
+            -46.8032116,
+            -23.593044
+          ],
+          [
+            -46.8029219,
+            -23.5929924
+          ],
+          [
+            -46.8024498,
+            -23.5928633
+          ],
+          [
+            -46.8022165,
+            -23.592797
+          ],
+          [
+            -46.801971,
+            -23.5927171
+          ],
+          [
+            -46.8017323,
+            -23.5926274
+          ],
+          [
+            -46.801338,
+            -23.5924737
+          ],
+          [
+            -46.8009236,
+            -23.5923004
+          ],
+          [
+            -46.8001056,
+            -23.5919452
+          ],
+          [
+            -46.799837,
+            -23.5918273
+          ]
+        ]
+      },
+      "id": "way/243872386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243872742",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7200114,
+            -23.5757354
+          ],
+          [
+            -46.7202448,
+            -23.5757243
+          ],
+          [
+            -46.7203682,
+            -23.57576
+          ],
+          [
+            -46.7205358,
+            -23.5758104
+          ],
+          [
+            -46.720682,
+            -23.5758847
+          ],
+          [
+            -46.7209013,
+            -23.5760187
+          ],
+          [
+            -46.7210998,
+            -23.5761466
+          ],
+          [
+            -46.7216389,
+            -23.5765165
+          ],
+          [
+            -46.7218588,
+            -23.5766603
+          ],
+          [
+            -46.7221063,
+            -23.5768042
+          ],
+          [
+            -46.7222665,
+            -23.5768951
+          ],
+          [
+            -46.7223973,
+            -23.5769603
+          ],
+          [
+            -46.722579,
+            -23.577018
+          ],
+          [
+            -46.7228284,
+            -23.5770918
+          ],
+          [
+            -46.7235439,
+            -23.5772655
+          ],
+          [
+            -46.7243201,
+            -23.5774769
+          ],
+          [
+            -46.7250067,
+            -23.5776482
+          ]
+        ]
+      },
+      "id": "way/243872742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/243872747",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7263898,
+            -23.578155
+          ],
+          [
+            -46.7271579,
+            -23.5784712
+          ],
+          [
+            -46.727602,
+            -23.5786493
+          ],
+          [
+            -46.7279555,
+            -23.5787978
+          ],
+          [
+            -46.7280842,
+            -23.5788704
+          ],
+          [
+            -46.7282036,
+            -23.5789515
+          ],
+          [
+            -46.728327,
+            -23.5790695
+          ],
+          [
+            -46.7283954,
+            -23.5791604
+          ],
+          [
+            -46.7284879,
+            -23.5793055
+          ],
+          [
+            -46.728555,
+            -23.5794394
+          ],
+          [
+            -46.7286542,
+            -23.5797381
+          ],
+          [
+            -46.7288236,
+            -23.5802346
+          ],
+          [
+            -46.728889,
+            -23.5803578
+          ],
+          [
+            -46.7289513,
+            -23.5804504
+          ],
+          [
+            -46.7290009,
+            -23.58051
+          ],
+          [
+            -46.7290759,
+            -23.5805738
+          ]
+        ]
+      },
+      "id": "way/243872747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261590256",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7974314,
+            -23.590149
+          ],
+          [
+            -46.7979591,
+            -23.5900476
+          ],
+          [
+            -46.7981046,
+            -23.5900194
+          ],
+          [
+            -46.7982495,
+            -23.5899972
+          ],
+          [
+            -46.7983641,
+            -23.5900009
+          ],
+          [
+            -46.7984674,
+            -23.5900335
+          ],
+          [
+            -46.7985667,
+            -23.5900851
+          ],
+          [
+            -46.7986625,
+            -23.5901509
+          ],
+          [
+            -46.7987162,
+            -23.590197
+          ],
+          [
+            -46.7987444,
+            -23.5902283
+          ],
+          [
+            -46.7987938,
+            -23.5903016
+          ]
+        ]
+      },
+      "id": "way/261590256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261590258",
+        "destination:ref": "SP-270;BR-272",
+        "foot": "yes",
+        "highway": "motorway_link",
+        "lanes": "2",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7708398,
+            -23.5833496
+          ],
+          [
+            -46.7705628,
+            -23.5833853
+          ],
+          [
+            -46.7704063,
+            -23.5834025
+          ],
+          [
+            -46.7700746,
+            -23.5834908
+          ],
+          [
+            -46.7698612,
+            -23.5835556
+          ],
+          [
+            -46.7696616,
+            -23.5836555
+          ],
+          [
+            -46.7694218,
+            -23.5837067
+          ]
+        ]
+      },
+      "id": "way/261590258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261590259",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7951569,
+            -23.5892254
+          ],
+          [
+            -46.7959602,
+            -23.5896605
+          ],
+          [
+            -46.7964853,
+            -23.5899696
+          ],
+          [
+            -46.7965215,
+            -23.589996
+          ],
+          [
+            -46.7966261,
+            -23.5900648
+          ],
+          [
+            -46.797068,
+            -23.5903389
+          ],
+          [
+            -46.7979866,
+            -23.5908539
+          ],
+          [
+            -46.7982106,
+            -23.5909645
+          ],
+          [
+            -46.7989536,
+            -23.591289
+          ],
+          [
+            -46.7993291,
+            -23.5914641
+          ],
+          [
+            -46.7996,
+            -23.5915974
+          ],
+          [
+            -46.8011872,
+            -23.5922845
+          ],
+          [
+            -46.801395,
+            -23.5923723
+          ],
+          [
+            -46.8018718,
+            -23.5925634
+          ],
+          [
+            -46.8022071,
+            -23.5926839
+          ],
+          [
+            -46.8026081,
+            -23.5928006
+          ],
+          [
+            -46.8029715,
+            -23.5928829
+          ],
+          [
+            -46.8033202,
+            -23.5929407
+          ],
+          [
+            -46.8039183,
+            -23.5929924
+          ],
+          [
+            -46.8042134,
+            -23.5929985
+          ],
+          [
+            -46.8047337,
+            -23.5929801
+          ],
+          [
+            -46.8060946,
+            -23.5928528
+          ],
+          [
+            -46.8074709,
+            -23.5926894
+          ],
+          [
+            -46.8075998,
+            -23.5926741
+          ],
+          [
+            -46.8082581,
+            -23.5926028
+          ],
+          [
+            -46.8085901,
+            -23.5925448
+          ],
+          [
+            -46.8089421,
+            -23.5924762
+          ],
+          [
+            -46.8093981,
+            -23.5923533
+          ],
+          [
+            -46.8098031,
+            -23.5922304
+          ],
+          [
+            -46.8101512,
+            -23.5921097
+          ],
+          [
+            -46.8109001,
+            -23.5918174
+          ],
+          [
+            -46.8112942,
+            -23.5916457
+          ],
+          [
+            -46.8117799,
+            -23.5914254
+          ],
+          [
+            -46.8122587,
+            -23.5911685
+          ],
+          [
+            -46.8125269,
+            -23.5910186
+          ],
+          [
+            -46.8128045,
+            -23.590849
+          ],
+          [
+            -46.8132269,
+            -23.5905823
+          ],
+          [
+            -46.8134375,
+            -23.5904372
+          ],
+          [
+            -46.8137567,
+            -23.590189
+          ],
+          [
+            -46.8139694,
+            -23.5900254
+          ],
+          [
+            -46.8145412,
+            -23.5895855
+          ]
+        ]
+      },
+      "id": "way/261590259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261590260",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7965416,
+            -23.5901503
+          ],
+          [
+            -46.796038,
+            -23.5898621
+          ],
+          [
+            -46.795869,
+            -23.5897699
+          ],
+          [
+            -46.7956926,
+            -23.5896687
+          ],
+          [
+            -46.7953849,
+            -23.5894921
+          ],
+          [
+            -46.7944421,
+            -23.5889341
+          ],
+          [
+            -46.7939727,
+            -23.5886625
+          ],
+          [
+            -46.7934671,
+            -23.5883635
+          ]
+        ]
+      },
+      "id": "way/261590260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/261590285",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7965054,
+            -23.5898117
+          ],
+          [
+            -46.7967743,
+            -23.5899622
+          ],
+          [
+            -46.7969459,
+            -23.5900507
+          ],
+          [
+            -46.7970287,
+            -23.590086
+          ]
+        ]
+      },
+      "id": "way/261590285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/262851666",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7242996,
+            -23.5775966
+          ],
+          [
+            -46.7238483,
+            -23.57748
+          ],
+          [
+            -46.7235377,
+            -23.577403
+          ],
+          [
+            -46.7228098,
+            -23.5772051
+          ],
+          [
+            -46.7224637,
+            -23.5771004
+          ],
+          [
+            -46.7222236,
+            -23.5770131
+          ],
+          [
+            -46.7220211,
+            -23.5769049
+          ],
+          [
+            -46.7217797,
+            -23.5767513
+          ],
+          [
+            -46.7210685,
+            -23.576273
+          ],
+          [
+            -46.7207702,
+            -23.5760709
+          ],
+          [
+            -46.7206509,
+            -23.5759903
+          ],
+          [
+            -46.7205224,
+            -23.575921
+          ],
+          [
+            -46.7203642,
+            -23.5758632
+          ],
+          [
+            -46.7202314,
+            -23.5758337
+          ],
+          [
+            -46.7201,
+            -23.575827
+          ],
+          [
+            -46.719766,
+            -23.5758583
+          ]
+        ]
+      },
+      "id": "way/262851666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/264831236",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7673658,
+            -23.5847162
+          ],
+          [
+            -46.7668719,
+            -23.5848935
+          ],
+          [
+            -46.7664756,
+            -23.5850238
+          ],
+          [
+            -46.7660328,
+            -23.5851178
+          ],
+          [
+            -46.7655669,
+            -23.5851961
+          ],
+          [
+            -46.7642821,
+            -23.5853788
+          ]
+        ]
+      },
+      "id": "way/264831236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/269678078",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7900656,
+            -23.5863904
+          ],
+          [
+            -46.7892936,
+            -23.5859524
+          ],
+          [
+            -46.7889395,
+            -23.5857312
+          ],
+          [
+            -46.7880115,
+            -23.5852027
+          ],
+          [
+            -46.7876735,
+            -23.5850183
+          ],
+          [
+            -46.7874375,
+            -23.5848979
+          ]
+        ]
+      },
+      "id": "way/269678078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/269678079",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7934671,
+            -23.5883635
+          ],
+          [
+            -46.7931767,
+            -23.5882045
+          ],
+          [
+            -46.7928033,
+            -23.5880001
+          ],
+          [
+            -46.7923312,
+            -23.5877481
+          ]
+        ]
+      },
+      "id": "way/269678079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/269687952",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.799837,
+            -23.5918273
+          ],
+          [
+            -46.7992727,
+            -23.5915962
+          ],
+          [
+            -46.7988449,
+            -23.5914155
+          ],
+          [
+            -46.7982776,
+            -23.5911427
+          ],
+          [
+            -46.7979008,
+            -23.5909559
+          ],
+          [
+            -46.797654,
+            -23.5908121
+          ],
+          [
+            -46.7971111,
+            -23.590486
+          ],
+          [
+            -46.7968574,
+            -23.5903426
+          ],
+          [
+            -46.7965416,
+            -23.5901503
+          ]
+        ]
+      },
+      "id": "way/269687952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426679405",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7337786,
+            -23.5828041
+          ],
+          [
+            -46.7341353,
+            -23.5830518
+          ]
+        ]
+      },
+      "id": "way/426679405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/441838811",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7970287,
+            -23.590086
+          ],
+          [
+            -46.7970965,
+            -23.590102
+          ],
+          [
+            -46.7972041,
+            -23.5901238
+          ],
+          [
+            -46.7973067,
+            -23.5901367
+          ],
+          [
+            -46.7974314,
+            -23.590149
+          ]
+        ]
+      },
+      "id": "way/441838811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/494026622",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7320673,
+            -23.5819597
+          ],
+          [
+            -46.7325499,
+            -23.5821592
+          ],
+          [
+            -46.7331214,
+            -23.5824225
+          ],
+          [
+            -46.7332019,
+            -23.5824686
+          ]
+        ]
+      },
+      "id": "way/494026622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/494050275",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7297014,
+            -23.5808965
+          ],
+          [
+            -46.7297794,
+            -23.580931
+          ],
+          [
+            -46.7305498,
+            -23.5812711
+          ],
+          [
+            -46.7307324,
+            -23.5813517
+          ],
+          [
+            -46.7308067,
+            -23.5813827
+          ],
+          [
+            -46.7310547,
+            -23.581495
+          ]
+        ]
+      },
+      "id": "way/494050275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/494050276",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt",
+        "turn:lanes": "none|none|none|right"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7290759,
+            -23.5805738
+          ],
+          [
+            -46.7292041,
+            -23.58066
+          ],
+          [
+            -46.7293422,
+            -23.5807337
+          ],
+          [
+            -46.7297014,
+            -23.5808965
+          ]
+        ]
+      },
+      "id": "way/494050276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/848741248",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7988168,
+            -23.5903208
+          ],
+          [
+            -46.7988583,
+            -23.5903309
+          ],
+          [
+            -46.7989324,
+            -23.590366
+          ],
+          [
+            -46.7989891,
+            -23.5904059
+          ],
+          [
+            -46.7990394,
+            -23.5904584
+          ],
+          [
+            -46.7990702,
+            -23.5904999
+          ]
+        ]
+      },
+      "id": "way/848741248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/932980542",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7549131,
+            -23.5864367
+          ],
+          [
+            -46.756057,
+            -23.5864318
+          ],
+          [
+            -46.7569133,
+            -23.5864281
+          ]
+        ]
+      },
+      "id": "way/932980542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/932980788",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7580338,
+            -23.5863457
+          ],
+          [
+            -46.7586433,
+            -23.5862486
+          ],
+          [
+            -46.7588733,
+            -23.586197
+          ]
+        ]
+      },
+      "id": "way/932980788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/932982112",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "90",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.769714,
+            -23.5832237
+          ],
+          [
+            -46.7700105,
+            -23.5830917
+          ]
+        ]
+      },
+      "id": "way/932982112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/932982113",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "90",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7672217,
+            -23.5846591
+          ],
+          [
+            -46.7673681,
+            -23.5845666
+          ],
+          [
+            -46.7675598,
+            -23.5844455
+          ],
+          [
+            -46.7675799,
+            -23.5844344
+          ],
+          [
+            -46.7676881,
+            -23.5843744
+          ],
+          [
+            -46.767721,
+            -23.5843561
+          ],
+          [
+            -46.7677814,
+            -23.5843226
+          ],
+          [
+            -46.7679809,
+            -23.584212
+          ]
+        ]
+      },
+      "id": "way/932982113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/932982149",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "1",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7711109,
+            -23.5829029
+          ],
+          [
+            -46.7718527,
+            -23.5828474
+          ],
+          [
+            -46.7723536,
+            -23.5828145
+          ],
+          [
+            -46.772554,
+            -23.5828064
+          ],
+          [
+            -46.7727453,
+            -23.5828176
+          ],
+          [
+            -46.7729472,
+            -23.5828295
+          ],
+          [
+            -46.7732852,
+            -23.5828541
+          ]
+        ]
+      },
+      "id": "way/932982149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/932982150",
+        "foot": "yes",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Marginal Raposo Tavares",
+        "oneway": "yes",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7700105,
+            -23.5830917
+          ],
+          [
+            -46.7702311,
+            -23.583034
+          ],
+          [
+            -46.7705085,
+            -23.5829757
+          ],
+          [
+            -46.7707727,
+            -23.5829304
+          ],
+          [
+            -46.7711109,
+            -23.5829029
+          ]
+        ]
+      },
+      "id": "way/932982150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/933024225",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.718659,
+            -23.5758479
+          ],
+          [
+            -46.7189138,
+            -23.5758356
+          ],
+          [
+            -46.7192142,
+            -23.575811
+          ],
+          [
+            -46.7198828,
+            -23.5757471
+          ],
+          [
+            -46.7200114,
+            -23.5757354
+          ]
+        ]
+      },
+      "id": "way/933024225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/933024682",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7250067,
+            -23.5776482
+          ],
+          [
+            -46.7251205,
+            -23.5776808
+          ],
+          [
+            -46.7253712,
+            -23.577758
+          ],
+          [
+            -46.7256762,
+            -23.577858
+          ],
+          [
+            -46.726086,
+            -23.5780296
+          ],
+          [
+            -46.7263898,
+            -23.578155
+          ]
+        ]
+      },
+      "id": "way/933024682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/933039462",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "5",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7565461,
+            -23.5865448
+          ],
+          [
+            -46.7555957,
+            -23.5865615
+          ]
+        ]
+      },
+      "id": "way/933039462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934466247",
+        "cycleway:both": "no",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.75347,
+            -23.5865608
+          ],
+          [
+            -46.7523059,
+            -23.5865657
+          ]
+        ]
+      },
+      "id": "way/934466247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934466248",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7694218,
+            -23.5837067
+          ],
+          [
+            -46.7692728,
+            -23.5837974
+          ]
+        ]
+      },
+      "id": "way/934466248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/934469959",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7469368,
+            -23.5856759
+          ],
+          [
+            -46.7465909,
+            -23.5855174
+          ],
+          [
+            -46.7462601,
+            -23.585363
+          ],
+          [
+            -46.7462012,
+            -23.5853318
+          ],
+          [
+            -46.7460449,
+            -23.5852759
+          ]
+        ]
+      },
+      "id": "way/934469959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935470344",
+        "destination": "Osasco;Jardim Boa Vista;Jardim Cambará",
+        "highway": "motorway_link",
+        "lanes": "1",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "source": "Bing",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7823355,
+            -23.5839049
+          ],
+          [
+            -46.7821417,
+            -23.5839666
+          ],
+          [
+            -46.7820021,
+            -23.5840448
+          ]
+        ]
+      },
+      "id": "way/935470344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935527749",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7919527,
+            -23.5875114
+          ],
+          [
+            -46.7914997,
+            -23.5872282
+          ],
+          [
+            -46.7909295,
+            -23.5868929
+          ]
+        ]
+      },
+      "id": "way/935527749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935527750",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7909295,
+            -23.5868929
+          ],
+          [
+            -46.7905277,
+            -23.5866567
+          ],
+          [
+            -46.7901841,
+            -23.5864576
+          ],
+          [
+            -46.7900656,
+            -23.5863904
+          ]
+        ]
+      },
+      "id": "way/935527750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935527751",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7923312,
+            -23.5877481
+          ],
+          [
+            -46.7919527,
+            -23.5875114
+          ]
+        ]
+      },
+      "id": "way/935527751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935529771",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7803196,
+            -23.583724
+          ],
+          [
+            -46.7797529,
+            -23.5836732
+          ],
+          [
+            -46.7796014,
+            -23.5836596
+          ]
+        ]
+      },
+      "id": "way/935529771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935529772",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7796014,
+            -23.5836596
+          ],
+          [
+            -46.7789258,
+            -23.583599
+          ],
+          [
+            -46.7781493,
+            -23.5835293
+          ],
+          [
+            -46.7773631,
+            -23.5834832
+          ]
+        ]
+      },
+      "id": "way/935529772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935529773",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7847255,
+            -23.5841575
+          ],
+          [
+            -46.7845112,
+            -23.5841285
+          ],
+          [
+            -46.784256,
+            -23.5841076
+          ],
+          [
+            -46.7841813,
+            -23.5841015
+          ],
+          [
+            -46.7838065,
+            -23.5840744
+          ]
+        ]
+      },
+      "id": "way/935529773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/938155318",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7957135,
+            -23.5893151
+          ],
+          [
+            -46.7957751,
+            -23.5893532
+          ],
+          [
+            -46.7961226,
+            -23.5895714
+          ],
+          [
+            -46.7965054,
+            -23.5898117
+          ]
+        ]
+      },
+      "id": "way/938155318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/938155319",
+        "foot": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7920898,
+            -23.5874445
+          ],
+          [
+            -46.7941242,
+            -23.5886256
+          ],
+          [
+            -46.7951569,
+            -23.5892254
+          ]
+        ]
+      },
+      "id": "way/938155319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/938155320",
+        "foot": "yes",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7642821,
+            -23.5853788
+          ],
+          [
+            -46.762788,
+            -23.5855837
+          ]
+        ]
+      },
+      "id": "way/938155320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1073904403",
+        "cycleway:both": "no",
+        "highway": "motorway",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "90",
+        "maxspeed:hgv": "80",
+        "name": "Rodovia Raposo Tavares",
+        "oneway": "yes",
+        "ref": "SP-270;BR-272",
+        "sidewalk": "right",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.7429612,
+            -23.5850783
+          ],
+          [
+            -46.7423925,
+            -23.5851056
+          ]
+        ]
+      },
+      "id": "way/1073904403"
+    }
+  ]
+}

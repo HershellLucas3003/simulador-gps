@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador GPS</title>
+    <style>html body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgb(7, 20, 31);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;  
+    flex-direction: column;
+}
+
+.container-simulador{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.header-simulador {
+    background-color: rgb(7, 20, 31);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 12px;
+}
+
+.main-simulador {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+    width: 30vw;
+    border: 2px;
+    margin: 40px;
+    border-radius: 20px;
+    background-color: rgba(0, 64, 128, 0.5);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+#controls {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+div{
+    margin: 8px;
+    padding: 6px;
+    border: 2px;
+    border-radius: 15px;
+    background-color: rgba(0, 64, 128, 0.5);
+    width: 300px;
+}
+
+
+input[type="text"], input[type="number"] {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+#setTimerBtn{
+    background-color: #ffffff;
+    border: #004080;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+#stopSimBtn {
+    background-color: #a80000;
+    border: #a80000;
+    border-radius: 10px;
+    padding: 8px;
+    margin: 5px;
+}
+
+#startSimBtn {
+    background-color: #005018;
+    border: #005018;
+    border-radius: 10px;
+    padding: 8px;
+    margin: 5px
+}
+
+#startSimBtn:hover, #stopSimBtn:hover, #setTimerBtn:hover {
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+#startSimBtn:disabled, #stopSimBtn:disabled, #setTimerBtn:disabled {
+    background-color: #cccccc;
+    border: #cccccc;
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+#startSimBtn:active, #stopSimBtn:active, #setTimerBtn:active {
+    background-color: #807f7f;
+    border: #cccccc;
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+select {
+    width: 30%;
+    padding: 3px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+    box-sizing: border-box;
+}
+
+#mapContainer{
+    margin-top: 20px;
+    height: 50px;
+    border: 2px solid #004080;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+#latLongSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    height: 80vh;
+    width: 40vw;
+    border: 2px;
+    margin: 40px;
+    border-radius: 20px;
+    background-color: rgba(0, 64, 128, 0.5);
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    overflow: hidden;
+}
+
+.div-resultados {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#equipTable {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#equipTable thead {
+    background: linear-gradient(135deg, #004080 0%, #0066cc 100%);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+#equipTable thead th {
+    padding: 15px 10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-bottom: 3px solid #0099ff;
+}
+
+tbody {
+    max-height: 500px;
+    overflow-y: auto;
+    display: block;
+}
+
+thead, tbody tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+#equipTable tbody tr {
+    transition: all 0.3s ease;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#equipTable tbody tr:hover {
+    background-color: rgba(0, 102, 204, 0.3);
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0, 153, 255, 0.2);
+}
+
+#equipTable tbody tr:nth-child(even) {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#equipTable tbody tr:nth-child(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+th, td {
+    padding: 12px 10px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 13px;
+}
+
+#equipTable tbody td {
+    border-right: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+#equipTable tbody td:last-child {
+    border-right: none;
+}
+
+/* Scrollbar customizada */
+tbody::-webkit-scrollbar {
+    width: 8px;
+}
+
+tbody::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+tbody::-webkit-scrollbar-thumb {
+    background: linear-gradient(135deg, #004080 0%, #0099ff 100%);
+    border-radius: 10px;
+}
+
+tbody::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(135deg, #0066cc 0%, #00ccff 100%);
+}</style>
+    <script>const API_URL = 'http://localhost:3000';
+let updateInterval = null;
+let isSimulationRunning = false;
+
+async function loadMaps() {
+    try {
+        const response = await fetch(`${API_URL}/maps`);
+        const maps = await response.json();
+        const mapSelect = document.getElementById('mapSelect');
+        
+        mapSelect.innerHTML = '<option value="">Selecione um mapa...</option>';
+        maps.forEach(map => {
+            const option = document.createElement('option');
+            option.value = map;
+            option.textContent = map;
+            mapSelect.appendChild(option);
+        });
+    } catch (error) {
+        console.error('Erro ao carregar mapas:', error);
+        alert('Erro ao carregar mapas. Verifique se o servidor está rodando.');
+    }
+}
+
+async function loadEquips() {
+    try {
+        const response = await fetch(`${API_URL}/get/all`);
+        const equips = await response.json();
+        const equipSelect = document.getElementById('equipSelect');
+        
+        equipSelect.innerHTML = '<option value="">Todos os equipamentos</option>';
+        equips.forEach(e => {
+            const option = document.createElement('option');
+            option.value = e.equipId;
+            option.textContent = `${e.name} (${e.plate})`;
+            equipSelect.appendChild(option);
+        });
+    } catch (error) {
+        console.error('Erro ao carregar equipamentos:', error);
+    }
+}
+
+async function updateTable() {
+    try {
+        const response = await fetch(`${API_URL}/gps/coordinates`);
+        const equips = await response.json();
+        const corpoTabela = document.getElementById('corpo-resposta');
+        
+        if (equips.error) {
+            corpoTabela.innerHTML = `<tr><td colspan="3">${equips.error}</td></tr>`;
+            return;
+        }
+        
+        corpoTabela.innerHTML = '';
+        
+        equips.forEach(e => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>${e.name || e.equipId}</td>
+                <td>${e.latitude ? e.latitude.toFixed(6) : 'N/A'}</td>
+                <td>${e.longitude ? e.longitude.toFixed(6) : 'N/A'}</td>
+            `;
+            corpoTabela.appendChild(row);
+        });
+    } catch (error) {
+        console.error('Erro ao atualizar tabela:', error);
+    }
+}
+
+async function defineMap() {
+    const mapSelect = document.getElementById('mapSelect');
+    const mapName = mapSelect.value;
+    
+    if (!mapName) {
+        alert('Selecione um mapa primeiro!');
+        return false;
+    }
+    
+    try {
+        const response = await fetch(`${API_URL}/define/map`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ mapName })
+        });
+        const result = await response.json();
+        
+        if (result.success) {
+            console.log('Mapa definido com sucesso!');
+            return true;
+        } else {
+            alert('Erro ao definir mapa.');
+            return false;
+        }
+    } catch (error) {
+        console.error('Erro ao definir mapa:', error);
+        alert('Erro ao definir mapa. Verifique o console.');
+        return false;
+    }
+}
+
+async function setTimer() {
+    const timerInput = document.getElementById('timerInput');
+    const timerValue = parseInt(timerInput.value);
+    
+    if (timerValue < 100) {
+        alert('O intervalo mínimo é 100ms');
+        return;
+    }
+    
+    try {
+        const response = await fetch(`${API_URL}/define/timer`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ timerReq: timerValue })
+        });
+        const result = await response.json();
+        
+        if (result.success) {
+            alert(`Intervalo definido para ${timerValue}ms`);
+        }
+    } catch (error) {
+        console.error('Erro ao definir timer:', error);
+    }
+}
+
+async function startSimulation() {
+    const mapDefined = await defineMap();
+    if (!mapDefined) return;
+    
+    try {
+        const response = await fetch(`${API_URL}/define/auto`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ auto: true })
+        });
+        const result = await response.json();
+        
+        if (result.success) {
+            isSimulationRunning = true;
+            document.getElementById('startSimBtn').disabled = true;
+            document.getElementById('stopSimBtn').disabled = false;
+            document.getElementById('mapSelect').disabled = true;
+            
+            updateTable();
+            updateInterval = setInterval(updateTable, 2000);
+            
+            console.log('Simulação iniciada!');
+        }
+    } catch (error) {
+        console.error('Erro ao iniciar simulação:', error);
+        alert('Erro ao iniciar simulação.');
+    }
+}
+
+async function stopSimulation() {
+    try {
+        const response = await fetch(`${API_URL}/define/auto`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ auto: false })
+        });
+        const result = await response.json();
+        
+        if (result.success) {
+            isSimulationRunning = false;
+            document.getElementById('startSimBtn').disabled = false;
+            document.getElementById('stopSimBtn').disabled = true;
+            document.getElementById('mapSelect').disabled = false;
+            
+            if (updateInterval) {
+                clearInterval(updateInterval);
+                updateInterval = null;
+            }
+            
+            console.log('Simulação parada!');
+        }
+    } catch (error) {
+        console.error('Erro ao parar simulação:', error);
+    }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+    loadMaps();
+    loadEquips();
+    
+    document.getElementById('setTimerBtn').addEventListener('click', setTimer);
+    document.getElementById('startSimBtn').addEventListener('click', startSimulation);
+    document.getElementById('stopSimBtn').addEventListener('click', stopSimulation);
+    
+    document.getElementById('stopSimBtn').disabled = true;
+});</script>
+</head>
+<body>
+    <header class="header-simulador">
+        <h1>Simulador GPS</h1>
+    </header>
+    <div class="container-simulador">
+        <main class="main-simulador">
+            <section id="controls">
+                <h2>Controles da Simulação</h2>
+                <div>
+                    <label for="mapSelect">Selecionar Mapa:</label>
+                    <select id="mapSelect"></select>
+                </div>
+                <div>
+                    <label for="equipSelect">Selecionar Equipamento:</label>
+                    <select id="equipSelect"></select>
+                </div>
+                <div>
+                    <label for="timerInput">Intervalo de Atualização (ms):</label>
+                    <input type="number" id="timerInput" value="1000" min="100">
+                    <button id="setTimerBtn">Definir Intervalo</button>
+                </div>
+                <div>
+                    <button id="startSimBtn">Iniciar Simulação</button>
+                    <button id="stopSimBtn">Parar Simulação</button>
+                </div>
+            </section>
+        </main>
+        <section id="latLongSection">
+            <h2>Equipamentos</h2>
+            <div class="div-resultados">
+                <table id="equipTable">
+                    <thead>
+                        <tr>
+                            <th>Equipamento</th>
+                            <th>Latitude</th>
+                            <th>Longitude</th>
+                        </tr>
+                    </thead>
+                    <tbody id="corpo-resposta">
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

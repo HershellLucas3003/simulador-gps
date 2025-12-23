@@ -44,15 +44,5 @@ router.post('/define/timer', (req, res) => {
   res.json({ success: true });
 });
 
-router.post('/define/equip', (req, res) => {
-  try {
-    const { equipId } = req.body;
-    simulatorService.setSelectedEquip(equipId);
-    res.json({ success: true, equipId: equipId || 'todos' });
-  } catch (error) {
-    res.status(400).json({ success: false, error: error.message });
-  }
-});
-
 
 module.exports = router;

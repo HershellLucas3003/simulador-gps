@@ -30,9 +30,14 @@ async function loadEquips() {
         equipSelect.innerHTML = '<option value="">Todos os equipamentos</option>';
         equips.forEach(e => {
             const option = document.createElement('option');
-            option.value = e.equipId;
+            option.value = e.id || e.equipId;  // Usar id ou equipId
             option.textContent = `${e.name} (${e.plate})`;
             equipSelect.appendChild(option);
+        });
+        
+        // Adicionar evento de mudança
+        equipSelect.addEventListener('change', async (event) => {
+            await setSelectedEquip(event.target.value);
         });
     } catch (error) {
         console.error('Erro ao carregar equipamentos:', error);
@@ -119,6 +124,24 @@ async function setTimer() {
         }
     } catch (error) {
         console.error('Erro ao definir timer:', error);
+    }
+}
+
+async function setSelectedEquip(equipId) {
+    try {
+        const response = await fetch(`${API_URL}/define/equip`, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ equipId: equipId || null })
+        });
+        const result = await response.json();
+        
+        if (result.success) {
+            const msg = equipId ? `Equipamento ${equipId} selecionado` : 'Todos os equipamentos selecionados';
+            console.log(msg);
+        }
+    } catch (error) {
+        console.error('Erro ao selecionar equipamento:', error);
     }
 }
 
