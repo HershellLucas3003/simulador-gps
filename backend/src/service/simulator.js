@@ -29,9 +29,9 @@ let cordenates = [];
 let auto = false;
 let timer = 5000;
 let intervalId = null;
-let selectedEquipId = null; // null = todos, ou ID específico
-let apiUrl = null; // URL da API para enviar as coordenadas
-let sendToApi = false; // Se deve enviar para API externa
+let selectedEquipId = null;
+let apiUrl = null;
+let sendToApi = false;
 
 function getMaps() {
     const dir = path.join(__dirname, '../maps');
@@ -148,7 +148,6 @@ function startSimulation() {
                     listEquips[index] = equipAtualizado;
                     console.log(`✓ Equipamento ${equip.equipId} (${equip.plate}) atualizado`);
                     
-                    // Enviar para API externa se configurado
                     if (sendToApi && apiUrl) {
                         sendLocationToApi(equipAtualizado).catch(err => 
                             console.error(`Erro ao enviar ${equip.equipId}:`, err.message)
@@ -266,7 +265,7 @@ async function defineEquiAndLatLong() {
     }
     
     return listEquips.map(equip => ({
-        equipId: equip.equipId,  // Usar equipId, não id
+        equipId: equip.equipId,
         name: equip.name,
         plate: equip.plate,
         concessionaire: equip.concessionaire,
