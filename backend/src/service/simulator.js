@@ -44,9 +44,8 @@ async function getAllEquips() {
             const response = await fetch('http://localhost:8010/gps/equipment/all');
             const data = await response.json();
             
-            // Inicializar equipamentos - API retorna "id" mas usamos "equipId"
             const equipamentos = data.map(e => new Equipamento(
-                e.id,  // <-- AQUI estava o erro! API usa "id", não "equipId"
+                e.id,
                 e.concessionaire,
                 e.plate,
                 e.name,
@@ -141,7 +140,7 @@ function startSimulation() {
                     newLon,
                     newLat,
                     new Date(),
-                    Math.floor(Math.random() * 40) + 60 
+                    0 
                 );
                 
                 const index = listEquips.findIndex(e => e.equipId === equip.equipId);
