@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:3000';
+const API_URL = '/api';  // Prefixo para as rotas da API
 let updateInterval = null;
 let isSimulationRunning = false;
 
